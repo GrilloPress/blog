@@ -8,33 +8,31 @@ published: true
 - content_for :css do
   = stylesheet_link_tag 'hypothesis-driven-design'
 
-%p It's important as a designer to be able to explain everything about your design. The intent, constraints, trade-offs and how a design should be evaluated.
-
-%p In a product team, it is also vital everyone understands the design.
-
-%p Your colleagues should be able to explain the thinking behind your product's design. Not in minute detail, but in broad strokes.
-
-%p Hypothesis driven design is a method to achieve this.
+%p At NHS Digital the team I work in, we have adopted a formal way of doing "Hypothesis Driven Design".
 
 %p Hypothesis driven design is a process where you state what outcomes you expect from a design. You write short statements that state your position and the outcome you expect from a change.
 
-%p Hypotheses can be big or small. They are statements that can cover small changes or additions like using breadcrumbs. Or a wider user need or story.
+%p Many designers work in a hypothesis driven way but don't write them down. This implicit way of coming up with an idea and then testing it is less than ideal.
+
+%p A hunch or a gut feel is a great start. It isn't a repeatable, sharable method.
 
 %h2 Hypothesis as the articulation of intent
 
+%p Hypotheses can be big or small. They are statements that can cover things like changing the colour of a button. Or a wider user need or story.
+
 %p A hypothesis is a statement. A statement of your current understanding and what change you expect to see. A hypothesis is an articulation of your intent.
 
-%p A sentence or two where you describe what will happen if you add breadcrumbs.
+%p A sentence or two where you describe what will happen if you change that button.
 
 %p Your hypotheses exist to communicate your thinking. As well as letting you and others test it. To verify it.
 
-%p If we expect a certain user outcome if we add breadcrumbs, is this the best way to do that? If we expect a certain outcome, did that happen when we tested it?
+%p If we expect a certain user outcome if we change our button, is this the best way to do that? If we expect a certain outcome, did that happen when we tested it?
 
 %p A good hypothesis is testable and verifiable. It can be true or false.
 
-%p In the team I work in at NHS Digital, we write our hypotheses using a formal language. We use:
+%p In the team I work in, we write our hypotheses using a formal language. We use:
 
-%ul.list-unstyled
+%ul.list-unstyled.list-hypothesis-statement
   %li [Context]
   %li If [some action]
   %li Then [outcome for users]
@@ -66,8 +64,6 @@ published: true
 
 %p The prototypes we build are a collection of hypotheses. Some proven, some not. When we test our prototype with users, we see if our expectations are true or not.
 
-%p In six to twelve months time, we'll know why we added breadcrumbs and the context that led to that decision.
-
 %h2 The benefits of using hypothesis driven design
 
 %p Hypothesis driven design is a simple process where you articulate your intent. The expected outcomes from your design work.
@@ -78,9 +74,14 @@ published: true
 
 %p By using this process you:
 
-%ol{:id => "benefits-of-hypothesis-driven-design"}
+%ol.list-benefits-of-hypothesis-driven-design
   %li Articulate your thinking
   %li Provide others with understanding of your thinking
   %li Create a framework to test your designs against
   %li Develop a standard way of documenting your work
   %li Make better stuff
+
+%h2 Other things on hypothesis driven design
+
+%p
+  %a{:href => "https://medium.com/@melhambo/use-a-hypothesis-backlog-to-capture-and-refine-your-problems-6ed0c4d499a2"} Using a hypothesis backlog (Kanban board)
