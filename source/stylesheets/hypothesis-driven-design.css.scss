@@ -1,0 +1,36 @@
+@import "variables";
+
+.x2017_12_10_hypothesis-driven-design {
+
+  .hero {
+
+    padding: 5rem 0;
+    background-image: url( "/images/hypothesis_background.png" );
+    background-size: 6rem;
+    background-color: $brand-secondary;
+    color: white;
+
+    h1 {
+
+      font-size: 5rem;
+
+      @media screen and (max-width: $mobile) {
+
+        font-size: 3rem;
+      }
+    }
+
+
+    @media screen and (max-width: $mobile) {
+
+      padding: 2rem 0;
+    }
+  }
+
+  .navbar {
+
+    background-image: url( "/images/hypothesis_background.png" );
+    background-size: contain;
+    background-color: $brand-secondary;
+  }
+}

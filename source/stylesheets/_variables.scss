@@ -1,0 +1,39 @@
+// base
+
+$font-family-base: -apple-system, BlinkMacSystemFont, “Segoe UI”, Roboto, Helvetica, Arial, sans-serif;
+$font-size-base: 20px;
+$font-weight-base: 500;
+$line-height-base: 1.4;
+
+// colours
+
+$white: #fff;
+$black: #191717;
+$red: #EB0C00;
+$yellow: #FF9F1C;
+$brand: #15174A;
+$brand-secondary: #FF382F;
+
+
+$body-color: $black;
+$body-bg: #FDFFFC;
+
+// text
+
+$headings-margin-bottom:  1.2rem;
+$paragraph-margin-bottom: 0.9rem;
+$dt-font-weight: 800;
+$text-muted: lighten( $body-color, 10%);
+$table-cell-padding: 0.2rem;
+
+// links and buttons
+
+$link-color: $red;
+$link-decoration: none;
+$link-hover-color: $white;
+$link-hover-decoration: none;
+$link-hover-background: $red;
+
+// screensizes
+
+$mobile: 600px;

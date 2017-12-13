@@ -1,0 +1,48 @@
+---
+title: New blog
+date: 2017-11-03 15:57 UTC
+tags: blogging, css grid
+published: false
+---
+I've started this blog with two aims:
+
+- To learn more CSS
+- To collect and publish things I have learned as an interaction designer
+
+## Keeping it simple
+
+I am going to try and keep the blog design simple.
+
+As little CSS as possible. With a very small and strict set of CSS for the blog as a whole.
+
+I am going to add a flourish here and there for particular blog posts. Like a grid for the Design Kanban post I am writing which shows the shape of the physical board.
+
+## Using CSS grid
+
+This blog uses CSS grid.
+
+At first glance CSS grid looks a little intimidating.
+
+Creating this blog is a way for me to learn it.
+
+ I’ve got a simple two column layout (converting to a single column on mobile) in 13 lines of CSS (Scss). The CSS is below:
+
+```SCSS
+.container {
+
+  max-width: 1100px;
+  margin: auto;
+  display: grid;
+  grid-template-columns: 3fr 1fr;
+  grid-gap: 2rem;
+  padding: 1rem;
+
+  @media screen and (max-width: $mobile) {
+    grid-template-columns: 100%;
+  }
+}
+```
+
+Before I created my first layout, that code would have looked intimidating.
+
+As I get a better handle on it. I will write it up in an article.

@@ -1,0 +1,64 @@
+@import "variables";
+
+.x2017_09_04_why_every_one_should_code {
+
+  $code-green: #41FF00;
+
+  font-family: monospace;
+  color: $code-green;
+  background-color: $black;
+
+  ::selection {
+
+    color: darken( $code-green, 5% );
+    background: $black; /* WebKit/Blink Browsers */
+  }
+  ::-moz-selection {
+
+    color: darken( $code-green, 5% );
+    background: $black; /* Gecko Browsers */
+  }
+
+  .hero {
+
+    color: $code-green;
+    background-color: $black;
+    border-bottom: 1px dashed darken($code-green, 10%);
+  }
+
+  a {
+
+    background-color: $code-green;
+    color: $black;
+
+    &:hover {
+
+      text-decoration: underline;
+    }
+
+    &::selection {
+
+      color: darken( $code-green, 5% );
+      background: $black; /* WebKit/Blink Browsers */
+    }
+
+    &::-moz-selection {
+
+      color: darken( $code-green, 5% );
+      background: $black; /* Gecko Browsers */
+    }
+
+
+  }
+
+  .navbar {
+
+    background-color: $black;
+    border-bottom: 1px dashed darken($code-green, 10%);
+  }
+
+  .pagination {
+
+    border-top-style: dashed;
+  }
+}

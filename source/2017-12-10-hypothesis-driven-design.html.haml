@@ -1,0 +1,86 @@
+---
+title: Hypothesis driven design
+date: 2017-12-10 12:10 UTC
+tags: Interaction Design, Design, Agile
+published: true
+---
+
+- content_for :css do
+  = stylesheet_link_tag 'hypothesis-driven-design'
+
+%p It's important as a designer to be able to explain everything about your design. The intent, constraints, trade-offs and how a design should be evaluated.
+
+%p In a product team, it is also vital everyone understands the design.
+
+%p Your colleagues should be able to explain the thinking behind your product's design. Not in minute detail, but in broad strokes.
+
+%p Hypothesis driven design is a method to achieve this.
+
+%p Hypothesis driven design is a process where you state what outcomes you expect from a design. You write short statements that state your position and the outcome you expect from a change.
+
+%p Hypotheses can be big or small. They are statements that can cover small changes or additions like using breadcrumbs. Or a wider user need or story.
+
+%h2 Hypothesis as the articulation of intent
+
+%p A hypothesis is a statement. A statement of your current understanding and what change you expect to see. A hypothesis is an articulation of your intent.
+
+%p A sentence or two where you describe what will happen if you add breadcrumbs.
+
+%p Your hypotheses exist to communicate your thinking. As well as letting you and others test it. To verify it.
+
+%p If we expect a certain user outcome if we add breadcrumbs, is this the best way to do that? If we expect a certain outcome, did that happen when we tested it?
+
+%p A good hypothesis is testable and verifiable. It can be true or false.
+
+%p In the team I work in at NHS Digital, we write our hypotheses using a formal language. We use:
+
+%ul.list-unstyled
+  %li [Context]
+  %li If [some action]
+  %li Then [outcome for users]
+  %li Because [reason for outcome]
+
+%p The context let's us frame why we are trying to solve a particular problem. We found this made writing easier. It also made them easier to understand when we returned to them.
+
+%p Your context could come from data. A hunch. A user lab. Other people. Or a mixture.
+
+%p An example could be:
+
+%p 'In lab 6 users struggled to navigate between pages. No user used the native browser back button. The researcher had to intervene to return to the homepage".
+
+%p The rest of the statement frames what we are going to do, what impact that'll have on the user and why.
+
+%p One line suffices for each.
+
+%p Writing these statements surfaces your reasoning behind your design decisions. It makes you a better designer. It acts as documentation. It helps you communicate the intent behind your design.
+
+%h2 Where our statements live
+
+%p We use a Kanban board to track our design work. We write our hypotheses as our design work matures.
+
+%p We then attach the hypothesis statements as comments to our cards in Jira.
+
+%p Before any design artefact is given to a developer or tested, it must have a hypothesis attached to it.
+
+%p When we review our design work, we review the hypothesis.
+
+%p The prototypes we build are a collection of hypotheses. Some proven, some not. When we test our prototype with users, we see if our expectations are true or not.
+
+%p In six to twelve months time, we'll know why we added breadcrumbs and the context that led to that decision.
+
+%h2 The benefits of using hypothesis driven design
+
+%p Hypothesis driven design is a simple process where you articulate your intent. The expected outcomes from your design work.
+
+%p Writing design hypotheses isn't always pleasurable. It can be tough to get them exactly right. But they make you a better designer.
+
+%p The act of articulating your design choice further refines your design.
+
+%p By using this process you:
+
+%ol{:id => "benefits-of-hypothesis-driven-design"}
+  %li Articulate your thinking
+  %li Provide others with understanding of your thinking
+  %li Create a framework to test your designs against
+  %li Develop a standard way of documenting your work
+  %li Make better stuff

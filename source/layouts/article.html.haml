@@ -1,0 +1,64 @@
+!!!
+%html
+  %head
+    %meta{:charset => "utf-8"}/
+    %meta{:content => "IE=edge;chrome=1", "http-equiv" => "X-UA-Compatible"}/
+    %meta{:content => "width=device-width, initial-scale=1", :name => "viewport"}/
+    %title
+      GrilloPress#{' - ' + current_article.title unless current_article.nil?}
+    = feed_tag :atom, "#{blog.options.prefix.to_s}/feed.xml", title: "Atom Feed"
+    = stylesheet_link_tag 'main'
+    = yield_content :css
+    = javascript_include_tag 'main'
+  %body{ :class => page_classes  }
+    %main{:role => "main"}
+      %nav.navbar
+        %div.navbar-container
+          %div
+            = link_to "Andrew Duckworth", "/"
+      %article{:id => title_as_class(current_article.title)}
+        %section.hero
+          %div.container
+            %div
+              - if content_for?(:hero)
+                %h1
+                  = current_page.data.title
+                = yield_content :hero
+              - else
+                %h1
+                  = current_page.data.title
+        %div.container
+          %section.blog-post
+            = yield
+
+            %nav.pagination
+              .prev
+                - prev_article = current_article.previous_article
+                - if prev_article
+                  Previous:
+                  %a{ :rel => "prev", :href => prev_article.url }= prev_article.title
+              .next
+                - next_article = current_article.next_article
+                - if next_article
+                  Next:
+                  %a{ :rel => "next", :href => next_article.url }= next_article.title
+          %aside.sidebar
+            %h2 Recent Articles
+            %ol
+              - blog.articles[0...10].each do |article|
+                %li
+                  = link_to article.title, article
+                  %span= article.date.strftime('%b %e')
+            %h2 Tags
+            %ol
+              - blog.tags.each do |tag, articles|
+                %li= link_to "#{tag} (#{articles.size})", tag_path(tag)
+            %h2 By Year
+            %ol
+              - blog.articles.group_by {|a| a.date.year }.each do |year, articles|
+                %li= link_to "#{year} (#{articles.size})", blog_year_path(year)
+    %footer.container
+      %p
+        Copyright 2017 Andrew Duckworth
+        |
+        = link_to "@AndrewDuck_", "https://twitter.com/AndrewDuck_"

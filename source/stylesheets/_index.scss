@@ -1,0 +1,64 @@
+// Homepage styles
+
+.index {
+
+  background-color: $brand;
+  color: $white;
+  background-image: url("/images/background.png");
+  background-size: contain;
+  background-position: 25%;
+
+  h1 {
+
+    font-size: 7rem;
+    margin: 2rem 0;
+
+    @media screen and (max-width: $mobile) {
+
+      font-size: 3rem;
+      margin-top: 0;
+    }
+  }
+
+  a {
+
+    color: $brand-secondary;
+
+    &:hover {
+
+      color: white;
+      background-color: $brand-secondary;
+    }
+
+  }
+
+  .list-featured {
+
+    font-size: 1.2rem;
+    margin-bottom: 2rem;
+    @extend .list-inline;
+
+    li {
+
+      width: 32%;
+
+      @media screen and (max-width: $mobile) {
+
+          display: block;
+          width: 100%;
+
+      }
+
+      &::after {
+
+        content: "";
+        border-bottom: 5px dashed;
+        display: block;
+        width: 3rem;
+        margin-bottom: 1rem;
+        margin-top: 0.3rem;
+
+      }
+    }
+  }
+}
