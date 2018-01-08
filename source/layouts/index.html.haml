@@ -9,6 +9,7 @@
     = feed_tag :atom, "#{blog.options.prefix.to_s}/feed.xml", title: "Atom Feed"
     = stylesheet_link_tag 'main'
     = javascript_include_tag 'main'
+    = favicon_tag '/images/me.jpg'
   %body.index
     %main.container{:role => "main"}
       %section

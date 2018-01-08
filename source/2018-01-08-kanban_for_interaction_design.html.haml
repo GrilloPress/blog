@@ -1,8 +1,8 @@
 ---
 title: Kanban for interaction design
-date: 2017-11-04 22:50 UTC
+date: 2018-01-08 22:50 UTC
 tags: Interaction Design, Design, Agile
-published: false
+published: true
 ---
 
 - content_for :css do
@@ -13,7 +13,7 @@ published: false
     デザイナーのためにかんばんをする方法
 
 %p
-  Recently at work I have been using a Kanban board with a fellow designer to manage our design work.
+  Recently at work I have been using a Kanban board with a colleague to manage our design work.
 
 %p
   Although early days, we have found it to be a real help and it has garnered some interest beyond the project we are on.
@@ -80,7 +80,7 @@ published: false
 
 %p After going backwards and forwards over the column names, we sketched out our board and added some cards.
 
-%p IMAGE
+%img{:src => "/images/boards/first_iteration.jpg"}
 
 %p The idea behind the columns where:
 
@@ -285,17 +285,21 @@ published: false
 
 %p Taking this opportunity we went back to basics. We explained our work flow and design process to the Scrum Master who scribbled on the board as we did.
 
+%img{:src => "/images/boards/analysing_the_flow.jpg"}
+
 %p We had another iteration
 
 %h3 Another iteration
 
 %p The outcome of the session with the Scrum Master meant we had an alternative way of displaying our iterative process as well as some tweaks to our columns.
 
-%p INSERT IMAGE
+%p We drew up our board and made a few tweaks again.
 
-%p Our column structure was:
+%img{:src => "/images/boards/another_iteration.jpg"}
 
-%ol{:id => "another-iteation"}
+%p Our new column structure was:
+
+%ol{:id => "another-iteration"}
   %li
     %h4 Backlog
     %p The is where our ideas live. Design hypotheses. Components to look into and explore. Things to optimise. Bugs or "That's not great is its".
@@ -339,12 +343,35 @@ published: false
 
 %p It is easy to review design work and not question enough with a colleague. To give a quick glance and a supportive remark.
 
+%p As well as make the time to thoroughly review things, it was clear that we needed to pass through things to review quicker as well. There is always the temptation to hold onto things until they are perfect.
+
+%p This makes reviewing harder. It also takes a lot longer and can stall other work you or colleagues have.
+
 %p The board highlighted that we needed to review early and often.
 
-%p Lorem ipsum...
+%p Documenting things well can be a tough task. The board revealed to us we weren't documenting as we went enough and this added another bottleneck.
 
-%h3 Documenting things
+%p The answer is of course "be better at documenting" but also make it easier to do.
+
+%p
+  Using a
+  = link_to "hypotheses driven design method", '/2017/12/10/hypothesis-driven-design.html', target: '_blank'
+  we adopted a lean way of articulating our design decisions and what we were aiming to test with each change.
+
+%p We also used the comments section of a corresponding Jira card to document our review as well as attach any screenshots, PDFs, sketch files or links.
+
+%p Because we made it easier to document our design decisions, we got better at documenting as we went.
 
 %h2 Benefits of using Kanban
 
-%h2 Process to prototype your board
+%p Our journey using the Kanban board is not over but it is now firmly a part of our process.
+
+%p We've seen many benefits to using it. We're able to:
+
+%ul
+  %li Track what each other is working on
+  %li Easily record our design reviews and comments
+  %li Involve our team in our process
+  %li Continuously inspect our process and decisions
+
+%p It has played a core part of integrating our design process into the wider product and team. It has improved us as designers. It has organised and evolved our process. It has made it easier to work together.

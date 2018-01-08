@@ -2,6 +2,11 @@
 
 .x2017_11_04_kanban_for_interaction_design {
 
+  img {
+
+    margin: 1rem 0 2rem 0;
+  }
+
   .hero {
 
     background-color: green;
@@ -33,7 +38,7 @@
   .navbar {
 
     background-color: green;
-    border-bottom-color: darken( green, 10% ); 
+    border-bottom-color: darken( green, 10% );
 
     a {
 
@@ -71,6 +76,7 @@
 
       border-right: 1px solid green;
       padding-right: 0.3rem;
+      min-height: 9em;
 
       .title {
 
