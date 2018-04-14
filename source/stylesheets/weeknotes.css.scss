@@ -1,0 +1,84 @@
+@import "variables";
+
+.weeknotes {
+
+  font-family: "Overpass", -apple-system, BlinkMacSystemFont, “Segoe UI”, Roboto, Helvetica, Arial, sans-serif;
+  background-color: #f3fff6;
+
+  .container, .navbar-container {
+
+    max-width: 650px;
+    grid-template-columns: 100%;
+  }
+
+
+  a {
+
+    color: #a50800;
+    text-decoration: underline;
+
+    &:hover {
+
+      background-color: #c1ffd3;
+    }
+  }
+
+  .navbar {
+
+    background-color: #c1ffd2;
+
+  }
+
+  .navbar-container {
+
+    a {
+
+      background-color: $black;
+      padding: 0 4px;
+      color: white;
+
+      &:hover {
+
+        text-decoration: none;
+      }
+    }
+  }
+
+  .hero {
+
+    background-color: #c1ffd2;
+    padding: 0.5rem;
+    color: $black;
+
+  }
+
+  blockquote {
+
+    background-color: #fddede;
+    border: 0.1rem solid darken( #fddede , 2%);
+  }
+
+  figcaption {
+
+    padding: 0.6rem;
+  }
+
+  figure {
+
+    background-color: #c1ffd2;
+
+    #canalside {
+
+      background-color: #33460b;
+      color: white;
+    }
+
+    #silence-game {
+
+      background-color: #121018;
+      color: white;
+
+    }
+  }
+
+}

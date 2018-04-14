@@ -18,3 +18,20 @@ per_page: 12
   - if paginate
     - if next_page
       %p= link_to 'Next page', next_page
+  / Begin MailChimp Signup Form
+  #mc_embed_signup
+    %form#mc-embedded-subscribe-form.validate{:action => "https://github.us17.list-manage.com/subscribe/post?u=854caf2991c76fd7adae546f1&id=b4e21ad2ba", :method => "post", :name => "mc-embedded-subscribe-form", :novalidate => "", :target => "_blank"}
+      #mc_embed_signup_scroll
+        %h2 Don't miss an article
+        .mc-field-group
+          %label{:for => "mce-EMAIL"} Email Address
+          %input#mce-EMAIL.required.email{:name => "EMAIL", :type => "email", :value => ""}/
+        #mce-responses.clear
+          #mce-error-response.response{:style => "display:none"}
+          #mce-success-response.response{:style => "display:none"}
+        / real people should not fill this in and expect good things - do not remove this or risk form bot signups
+        %div{"aria-hidden" => "true", :style => "position: absolute; left: -5000px;"}
+          %input{:name => "b_854caf2991c76fd7adae546f1_b4e21ad2ba", :tabindex => "-1", :type => "text", :value => ""}/
+        .clear
+          %input#mc-embedded-subscribe.button{:name => "subscribe", :type => "submit", :value => "Subscribe"}/
+  / End mc_embed_signup

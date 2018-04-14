@@ -1,0 +1,82 @@
+---
+
+title: Start pages
+date: 2018-02-03 16:45 UTC
+tags: links
+published: true
+---
+
+- content_for :css do
+  = stylesheet_link_tag 'weekly-links'
+
+- content_for :hero do
+  %p February 3rd 2018
+
+- content_for :twitter do
+  %meta{:content => "summary", :name => "twitter:card"}/
+  %meta{:content => "@AndrewDuck_", :name => "twitter:site"}/
+  %meta{:content => "@AndrewDuck_", :name => "twitter:creator"}/
+  %meta{:content => "https://grillopress.github.io/2018/02/03/start-pages.html", :property => "og:url"}/
+  %meta{:content => "This week's links - Start pages", :property => "og:title"}/
+  %meta{:content => "Start pages for transactional services", :property => "og:description"}/
+  %meta{:content => "https://grillopress.github.io/images/background.png", :property => "og:image"}/
+
+%p For the last couple of months I have been designing for “comprehension”. Helping users understand a very complicated and emotive subject.
+
+%p Although not “done”, recent success in user labs has given us some scope to focus on other risks.
+
+%p We want to make sure that people start our service understanding the thing they are doing. And what they need to have to complete that journey.
+
+%p We have been looking at how we inform users of the process they’ll about to undertake. How best we can let them know if they are able to complete the journey online.
+
+%p This led me to read a few things about start pages:
+
+%ol.weekly-link-list
+  %li
+    %h2 “It means people can use services much quicker, and they have detailed information in the place they most need it”
+    %p
+      First was
+      = link_to '"start pages within guides". ', "https://designnotes.blog.gov.uk/2013/12/20/start-pages-within-guides/", target: '_blank'
+      A blog post from 2013.
+    %p In it the team behind the carer’s allowance explained how they integrated their start page into the guide itself. Reducing the steps required to get the allowance and making it clearer that users could make a claim
+    %p When you are dealing with quite a complicated subject, you don’t want to dilute the message with the practicalities of how to start an online transactional journey.
+    %p Yet it makes sense to have the journey start from where users are. Where they can jump back and forward and get the information they need.
+    %div.link-to
+      Read more:
+      = link_to "Start pages within guides", "https://designnotes.blog.gov.uk/2013/12/20/start-pages-within-guides/", target: '_blank'
+  %li
+    %h2 “You’ll only be able to ask users clear questions when the process itself is clear”
+    %p
+      As I kept googling I re-read the
+      = link_to '“Check before you start”', 'https://www.gov.uk/service-manual/design/check-before-you-start', target: '_blank'
+      pattern. This is where you take users through a set of questions that pre-checks whether they are able to use the service in question.
+    %p The “before you start” pattern was something we toyed with in an earlier prototype but the journey felt like we were begging the question. The outcomes were too simple and as such didn’t add much value to the transaction.
+    %p Where I see this filter pattern or similar really shining, is when you have several closely aligned transactions or services. Services with a single entry point that users might not immediately see significant difference between.
+    %p This way, the filter works like visiting a GP. You know what symptoms you have and the expert (the service) through well thought-out questions kickstarts your journey into the appropriate part of the service.
+    %div.link-to
+      Read more:
+      = link_to "Check before you start", "https://www.gov.uk/service-manual/design/check-before-you-start", target: '_blank'
+  %li
+    %h2 “We have been able to dramatically reduce the amount of content on the start page”
+    %p
+      Another thing I looked at was the
+      = link_to '“interruption card”', 'https://home-office-digital-patterns.herokuapp.com/patterns/interruption-card', target: '_blank'
+      pattern on the Home Office digital pattern library.
+
+    %p This pattern matched something we had been trying to design before users got presented with a form to fill in.
+
+    %p Often you want to create a frictionless journey for your users. But when you need them to understand something, you need to introduce friction.
+
+    %p The interruption card does this well. It looks different and therefore surprises the user somewhat. But isn’t so different that they think they have gone to another website.
+
+    %p It summarizes the journey and requirements well, combining with the start page to increase user comprehension over two pages.
+
+    %p The pattern benefits from being within the journey of the service. Once a user has started a journey or transaction, they appear to take the information more seriously. Or at least, a lot more seriously than they do on the start page.
+
+    %p The advice in the pattern page calls for caution. Not to use the interruption card pattern too often. What is interesting about this is that the instances of the card I have seen use it quite extensively.
+
+    %p Rather than an interruption card, it becomes a journey within a journey. A phase.
+
+    %div.link-to
+      Read more:
+      = link_to "Interruption card pattern", "https://home-office-digital-patterns.herokuapp.com/patterns/interruption-card", target: '_blank'

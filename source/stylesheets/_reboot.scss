@@ -202,11 +202,13 @@ a {
   text-decoration: $link-decoration;
   background-color: transparent; // Remove the gray background on active links in IE 10.
   -webkit-text-decoration-skip: objects; // Remove gaps in links underline in iOS 8+ and Safari 8+.
+  text-decoration-skip-ink: auto;
 
   &:hover {
     color: $link-hover-color;
     text-decoration: $link-hover-decoration;
     background-color: $link-hover-background;
+    text-decoration-skip-ink: auto;
   }
 }
 
@@ -370,6 +372,9 @@ textarea {
   font-family: inherit;
   font-size: inherit;
   line-height: inherit;
+  border: 1px solid;
+  display: block;
+  margin-bottom: 0.5rem;
 }
 
 button,
@@ -390,6 +395,16 @@ html [type="button"], // 1
 [type="reset"],
 [type="submit"] {
   -webkit-appearance: button; // 2
+  background-color: lighten( $brand, 5%);
+  color: $white;
+  padding: 0.4rem 1rem;
+  border-radius: 0.4rem;
+  font-weight: bold;
+
+  &:hover {
+
+    background-color: darken( $brand, 15%);
+  }
 }
 
 // Remove inner border and padding from Firefox, but don't restore the outline like Normalize.

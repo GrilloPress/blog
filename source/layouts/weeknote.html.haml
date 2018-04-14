@@ -8,11 +8,13 @@
       GrilloPress#{' - ' + current_article.title unless current_article.nil?}
     = feed_tag :atom, "#{blog.options.prefix.to_s}/feed.xml", title: "Atom Feed"
     = stylesheet_link_tag 'main'
+    = stylesheet_link_tag 'weeknotes'
     = yield_content :twitter
     = yield_content :css
+    %link{:href => "https://fonts.googleapis.com/css?family=Overpass:400,700", :rel => "stylesheet"}/
     = javascript_include_tag 'main'
     = favicon_tag '/images/me.jpg'
-  %body{ :class => page_classes  }
+  %body{ :class => page_classes + " weeknotes"  }
     %main{:role => "main"}
       %nav.navbar
         %div.navbar-container
@@ -29,6 +31,8 @@
               - else
                 %h1
                   = current_page.data.title
+                %p
+                  = current_page.data.week
         %div.container
           %section.blog-post
             = yield
@@ -60,21 +64,6 @@
                   .clear
                     %input#mc-embedded-subscribe.button{:name => "subscribe", :type => "submit", :value => "Subscribe"}/
             / End mc_embed_signup
-          %aside.sidebar
-            %h2 Recent Articles
-            %ol
-              - blog.articles[0...10].each do |article|
-                %li
-                  = link_to article.title, article
-                  %span= article.date.strftime('%b %e')
-            %h2 Tags
-            %ol
-              - blog.tags.each do |tag, articles|
-                %li= link_to "#{tag} (#{articles.size})", tag_path(tag)
-            %h2 By Year
-            %ol
-              - blog.articles.group_by {|a| a.date.year }.each do |year, articles|
-                %li= link_to "#{year} (#{articles.size})", blog_year_path(year)
     %footer.container
       %p
         Copyright 2017-#{Date.current.year} Andrew Duckworth

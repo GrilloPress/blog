@@ -1,0 +1,77 @@
+---
+
+title: This week's links
+date: 2018-01-20 20:30 UTC
+tags: Links
+published: true
+
+---
+- content_for :css do
+  = stylesheet_link_tag 'weekly-links'
+
+- content_for :hero do
+  %p January 20th 2018
+
+- content_for :twitter do
+  %meta{:content => "summary", :name => "twitter:card"}/
+  %meta{:content => "@AndrewDuck_", :name => "twitter:site"}/
+  %meta{:content => "@AndrewDuck_", :name => "twitter:creator"}/
+  %meta{:content => "https://grillopress.github.io/2018/01/20/weekly-links.html", :property => "og:url"}/
+  %meta{:content => "This week's links - Jan 20th", :property => "og:title"}/
+  %meta{:content => "Form best practices, the NHS Constitution and junior designer feedback", :property => "og:description"}/
+  %meta{:content => "https://grillopress.github.io/images/background.png", :property => "og:image"}/
+
+%p The last week was a pretty intense one at work. It included a full day in a usability lab and a day working on design principles for the NHS on Thursday. I also helped handle some more junior designer recruitment stuff as well as plan the next iteration of the prototype I am working on.
+
+%p Beyond work, life was not so great. Though the week ended on a high note finding out that we will be welcoming a daughter to the family.
+
+%p Here is a summary and link to some of the things that I have been reading and thinking about in the last week:
+
+%ol.weekly-link-list
+  %li
+    %h2 Put field labels above forms and wait before a user submits a form to provide error feedback
+    %p
+      Not a new one, but I shared
+      = link_to "Working towards Usable Forms on the World Wide Web: Optimizing Date Entry Input Fields ", 'https://www.hindawi.com/journals/ahci/2011/202701/', target: '_blank'
+      to a collegue over Slack.
+    %p It explains that you should put field labels above forms. This lets users complete forms faster and with less stress.
+    %p It also explains that users make more errors if you validate your fields inline as your user inputs their data.
+    %p Not a portfolio-pretty approach, but let a user submit a form. Then provide them with feedback on whether it is correct. This approach points towards keeping forms short. And taking users through your service one thing at a time.
+    %div.link-to
+      Read more:
+      = link_to "Working towards Usable Forms on the World Wide Web: Optimizing Date Entry Input Fields ", 'https://www.hindawi.com/journals/ahci/2011/202701/', target: '_blank'
+  %li
+    %h2 The NHS belongs to the people
+    %p
+      The
+      = link_to "NHS Constitution ", 'https://www.gov.uk/government/publications/the-nhs-constitution-for-england/the-nhs-constitution-for-england', target: '_blank'
+      is a ridiculously inspiring document.
+    %p It is the guiding principles of the NHS. The aims and goals of the NHS and what it stands for.
+    %p It was officailly published in 2013 but built on things like the founding principles of the NHS, the Patient's Charter and similar documents. It has since also been updated, with 2015 being the latest revision.
+    %p The first line is "The NHS belongs to the people".
+    %p I have worked for the NHS for a while and whilst I knew parts of it and seen it quoted around and on posters, it wasn't until the last year that I really sat down to read it.
+    %p If you work for the NHS or have any sort  of love for it, I recommend reading part if not all of it.
+    %p
+      The NHS Constitution was on the forefront of my mind this week as I was at a meeting to help draft up some design principles for the NHS.
+    %p
+      At a previous meeting an NHS Digital colleague Nicola, mentioned the NHS Constitution as a guiding light for any principles. I thought Nicola's point was spot on.
+    %p
+      As we worked on reviewing some design principles I brought them up again.
+    %div.link-to
+      Read more:
+      = link_to "NHS Constitution ", 'https://www.gov.uk/government/publications/the-nhs-constitution-for-england/the-nhs-constitution-for-england', target: '_blank'
+    %li
+      %h2 Stay focused on the user. It doesn’t matter how much experience you gain as a UX Designer, our main job is to solve user needs
+      %p
+        Since before Christmas I have been helping our with junior designer recruitment.
+      %p
+        I wanted to make sure I was giving constructive career feedback to candidates. This led me to read Cinthya Mohr's
+        = link_to "Tips for starting or growing your career as a UX designer. ", 'https://medium.com/google-design/tips-for-starting-or-growing-your-career-as-a-ux-designer-ad8dbf1eb2d6', target: '_blank'
+      %p A key process I use before doing anything is to reach out to people who I know who have done things before.
+      %p I also like to google things to see what other people learnt and what advice they'd give.
+      %p One area I thought  juniors could do with some pointers is how they explain their design process. In particular the process behind a key portfolio piece.
+      %p Cinthya's piece did a good job of laying out how to build a narrative for portfolio pieces.  It resonated with what I wanted to see from the designers I interviewed.
+
+      %div.link-to
+        Read more:
+        = link_to "Tips for starting or growing your career as a UX designer", 'https://medium.com/google-design/tips-for-starting-or-growing-your-career-as-a-ux-designer-ad8dbf1eb2d6', target: '_blank'

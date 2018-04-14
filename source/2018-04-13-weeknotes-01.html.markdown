@@ -1,0 +1,76 @@
+---
+
+title: Weeknotes 01
+date: 2018-04-13
+week: "9-13th April 2018"
+tags: "Weeknotes"
+layout: weeknote
+published: true
+---
+
+I'm going to give weeknotes a try. A round-up of my work week.
+
+## Monday
+
+Planned out some content changes for our prototype with the content designer. Folded some changes into it. Took a good chunk of the day. Enabled the programme to review content and site structure in preparation for going public.
+
+Wrote a little more on personas for an interaction design course I am creating. Editing it led me to reading [Alan Cooper's The origin of personas](https://www.cooper.com/journal/2008/05/the_origin_of_personas).
+
+Mucked about with a screen recording tools or two in preparation to record the course. In-built Mac tools turned out to be the best.
+
+## Tuesday
+
+Played a "silence game" imagined up by our delivery manager Sophie to review the product backlog. Worked pretty well. We all agreed she needed to write it up and patent it.
+
+<figure>
+  <img src="/images/silence_game/having_fun.jpg" alt="Thunderbird team having fun playing the silence game"/>
+  <figcaption id="silence-game">The Thunderbird tribe having fun. Quietly.</figcaption>
+</figure>
+
+
+Lent a helping hand later to take a couple of people from GDS on a tour around the Digital Delivery Centre. Talked a little about the way we had evolved our design process on my project to keep it agile and outcome focused.
+
+They raised some interesting points.  You need to make sure you don’t just provide the business with the ability to make decisions. But also help them make the right ones.
+
+## Wednesday
+
+Worked from home.
+
+Took some time to design how offline forms are going to work on the service. Explored current solutions used by the NHS Choices website and DVLA.
+
+Reviewed the designs with several other designers. Found out that a colleague getting married soon (Congratulations Karl! Pizza in the post please).
+
+Can't underestimate the value and importance of sharing work early and often. Got some great ideas and questions.
+
+## Thursday
+
+Very intense day started in a usability lab. A lab with a focus on how contact centre staff would do assisted digital journeys.
+
+Was impressed with the problem solving from the call centre staff. Guiding users and developing and remixing the call centre scripts.
+
+Made me think about organisations like Automattic that ensure their developers spend a week a year doing phone support. The idea being to keep them  aware of the problems their users face. Feels like a concept that would help designers building software for the NHS.
+
+<figure>
+  <img src="/images/canalside.jpg" alt="A canal in Leeds"/>
+  <figcaption id="canalside">I walked a lot. Between three offices. Luckily the walk is pretty</figcaption>
+</figure>
+
+Caught up with a graduate I have been mentoring. Talked to his assignment manager too, a product manager on the project he was on. Seemed like a really nice team. Got invited to their next show and tell by the product manager. Will make a special effort to attend.
+
+Asked a question in the design slack and on Twitter about the use of personas. interesting debate and discussion. Will write it up soon.
+
+Hosted the design huddle. Heard from the delightful Dean about the “redesign” work. They’re working on foundational elements for the rest of the organisation. Raised the issue of forms and transactional service design. Talked a little about my forms as well.
+
+## Friday
+
+Had a few more changes and questions from the programme but got all the content approved and ready for public beta!
+
+Chased up the status on the service's offline forms and handed over design and content to the NHSUK migration team, in readiness for the site going live in May.
+
+Bumped into some of the redesign team. Was nice to chat. Got invited to talk forms and redesign. Will need to find a day or half-day to come over.
+
+Had a coffee and chat about design at NHS Digital with one of my favourite people, the magnificent Tero!
+
+Had a good catch up.
+
+Didn’t get to talk double diamond enough. Need to make sure we don’t leave it to goodbyes to talk our favourite subject.

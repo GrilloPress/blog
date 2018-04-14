@@ -1,0 +1,53 @@
+@import "variables";
+
+.x2018_01_20_weekly-links, .x2018_02_03_start-pages {
+
+  .navbar {
+
+    background-color: $black;
+  }
+
+  .hero {
+
+    background-color: $black;
+    color: white;
+    border-bottom: 1rem dashed;
+  }
+
+  blockquote {
+
+    background-color: #fddede;
+    border: 0.1rem solid darken( #fddede , 2%);
+  }
+
+  ol.weekly-link-list {
+
+    h2 {
+
+      font-family: $serif;
+
+      @media screen and (min-width: $desktop) {
+
+        font-size: 2.5rem;
+        line-height: 1;
+      }
+    }
+
+    list-style-type: none;
+    padding-left: 0;
+
+    li {
+
+      margin: 3rem 0;
+
+      .link-to {
+
+        padding: 1rem;
+        border: 1px solid;
+
+      }
+
+    }
+  }
+
+}
