@@ -1,0 +1,126 @@
+---
+title: Weeknotes 07
+date: 2018-05-25
+week: "21-25th May 2018"
+tags: "Weeknotes"
+layout: weeknote
+published: true
+---
+
+## Monday
+
+Started early.  Created two prototypes. Exploring different cookie consent banners.
+
+One with a simplified yes/no choice. Another that gave users more control.
+
+Shared the prototypes with the rest of the “Cookie cutters” for feedback. Rather than chuck some hypotheses and proto-personas at the group, I arranged a call.
+
+Shared the “NHS number” prototype with that team as well. Got given the analytics code to add and talked through research options.
+
+After my daily standup with Thunderbird I had the research planning call. Discussed the hypotheses behind the two versions of the cookie banner.
+
+Hadn’t ever worked with the researchers before. You take for granted the chemistry you have with people. But the team was great and we quickly got on the same page.
+
+Talked through the ideas. Shaped the research plan. Some questions were:
+
+- What users thought the banner was about?
+- What (if anything) they thought the banner was asking them to do?
+- How they interacted with the banner
+- Did they know what cookies were?
+- How much did they know about GDPR?
+- Which prototype model did they prefer? Why?
+- What did they understand they were agreeing to?
+- What they understood by "third-party" and other terms?
+
+The plan was to get people with a range of digital skills through a pop-up in a library.
+
+The researchers, Ana and Antonia, thought testing a third prototype would help them. So I got to crafting it while they shared the updated research plan in the Cookie cutter slack group.
+
+Jumped onto verifying the service for go-live. Caught an issue with the footer.
+
+Started an interaction flow in Sketch for the NHS number prototype.
+
+Took a call with programme about cookies and analytics for the service.
+
+Talked to a developer on the gov.uk slack about why they needed their NHS number. They’d asked in a channel where you could find it.
+
+Late in the day heard back from the researchers with the pop-up results. We got six people through. Between the two concepts, users preferred having more immediate control.
+
+Users understood what was being asked of them. And had heard about "cookies". But they felt somewhat confused over the implications of things.
+
+Part of this issue was that I had thrown the words together. And they weren’t great.
+
+The other issue was that we were exploring the need for consent to advert placement/tracking.
+
+In a scenario where you are asking people a simpler question, the binary yes/no option would excel. But, we had a scenario where we had finer grained layers. And as such, people liked that to be transparent.
+
+The next iteration was then to fold in what we had learnt about simplifying the language. As well as drilling further into how to let people make an informed decision.
+
+## Tuesday
+
+More prototyping.
+
+Dug into the cookies we were using. How to categorise them to something that’s easy to understand and doesn’t rely on web concepts or web terms. Tried to simplify things.
+
+We shifted to terms we thought were more commonly understood. Things like “social media”. (Yes, still too vague...)
+
+Explored addition concepts like “just in time” consent. This was more of a proof of concept. Not something we tested immediately.
+
+Finished off the NHS number service interaction flow. Added more detail on errors and loops.
+
+Got the final feedback on pop-up sessions for the latest prototypes. Progress on simplifying the concepts we are trying to get across to people.
+
+Our design worked well. But we had an issue again with the language. Recent Facebook and Cambridge Analytica stories changed how people perceived a few terms. Moving in the right direction.
+
+## Wednesday
+
+Improved the cookie banner based on the user feedback. Packaged up the prototype for implementation.
+
+Later in the morning met up with a colleague from London to talk navigation. Love chatting to Graham but don’t get to talk face to face much. Nice change.
+
+Met up with Ben. Took the opportunity to grab lunch. Talked through some stuff we were working on. Respecting context in interaction design amongst other things.
+
+Talked to Adam from the Cookie cutter crew. Caught up with the implementation of the cooke banner. He'd made great progress on two versions.
+
+Said hello to an NHS graduate I met during the GDS course. Caught up how she was. What she is moving onto.
+
+Caught up with Ruth the product owner for the new NHS number service. Talked through where the service could live if it is a goer.
+
+Shared the wireflow kit I used to create the NHS number interaction flow.
+
+Late in the day talked to a colleague from the NHSUK CMS team. About the prototype kit I made to explore their designs. Crafted up a starter kit for them.
+
+## Thursday
+
+Though not announced until Friday, the Thunderbird team put the service live.
+
+All things healthy and good to go. Nice moment. Particularly for a small team.
+
+Took a bit of time to go deeper into the error validation and messaging for the NHS number prototype. With a small window until MVP it’s key to explore the end to end journey. Dead-ends and things we left too late on my current service.
+
+Talked to a content designer colleague about help text and dropdowns.
+
+Shared some stuff we found in user testing. She also suggested some stuff. Improvements for the service and new prototype.
+
+Got sight of some of the launch day comms. It had changed quite a bit from last time. The plan was to announce the service in every national newspaper. As well as places like radio.
+
+A couple of speakers for the weekly design meetup had had to drop out. Life got in the way. I presented on a recent issue. Had planned for the chat to end with a sketching session. But debate and discussion took us to a more strategic than interface level.
+
+## Friday
+
+Launch day!
+
+<figure class="noir">
+  <img src="/images/thunderbird go live.jpg" alt="Group of colleagues standing in front of a whiteboard celebrating launching a national service"/>
+  <figcaption>Thunderbird team celebrating go live!</figcaption>
+</figure>
+
+Colleagues collected newspaper cuttings and shared where they had seen the service advertised.
+
+Did a little more on error messages. This time some validation rules for the prototype and then wording on end-pages.
+
+Helped the Thunderbird team on a range of issues and queries.
+
+Chased up on some questions I had asked. Given some content for the service but bounced it back asking for clarification.
+
+Went for lunch with the team and later in the day some drinks. Celebrated launching a service with a small, talented and motivated team.

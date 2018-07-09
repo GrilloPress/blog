@@ -1,0 +1,84 @@
+---
+title: Weeknotes 02
+date: 2018-04-20
+week: "16-20th April 2018"
+tags: "Weeknotes"
+layout: weeknote
+published: true
+---
+
+Another busy week. Worked through some issues in implementing the service's site on the NHSUK platform. Spent some time learning how GDS and gov.uk do design in London.
+
+## Monday
+
+Started the week talking design principles. We have some draft NHS design principles up on the wall in the Digital Delivery Centre. Right now we have nine principles. To kickstart conversation I asked what two principles people would remove. We had a pretty healthy debate.  It was interesting to see slight differences between interaction and service designers.
+
+Some of the principles may actually be better described as behaviours.  “What makes someone a good designer” rather than “what makes something a good design”. Something to think about.
+
+I ran into Stephen Corbett who was in his last week. Talked about service design with him and the world of “UX”. Going to miss Stephen. Always good fun and a smart mind.
+
+Had a sprint retrospective with the Thunderbird tribe. Then walked through some storyboards for a side project.
+
+Attended the Digital Delivery Centre experience design team meet up. Talked about the progress of the service.
+
+## Tuesday
+
+Worked from home. Crafted a sitemap for the service.
+
+Welcomed new member of the design community via Slack. Always make a point to do this.
+
+Travelled down to London later in the day. Had a 40 min delay due to a passenger medical emergency.
+
+Got to my hotel fine. Right next to the tower of London and tower bridge. Missed out on being able to catch my brother before he left work and a friend. Worked out meeting my friend on Thursday though. Next time I have to stay over in London I will arrange something with a friend or a colleague beforehand. Felt bored. Had a wonder and took some photos to relieve the boredom.
+
+<img src="/images/london/tower_bridge.jpg" alt="Tower Bridge in black and white with heavy shadows"/>
+
+## Wednesday
+
+Had a wonder up to Whitechapel after strolling around St Katharine’s. Beautiful place.
+
+First day of the GDS course. Talking principles, user stories, service design and journey mapping. Before getting into interaction flows with Tim Paul. Some of the day seemed out of sync. We did journey mapping before research. Seemed in the wrong order.
+
+Had a great lunch from a local street market. £5 for a massive chicken tikka roll, meat samosa and a drink.
+
+<figure>
+  <img src="/images/london/team_with_tikka.jpg" alt="Four designers eating Chicken tikka wraps in a street market"/>
+  <figcaption class="noir">Street food on a Yorkshire budget</figcaption>
+</figure>
+
+Enjoyed spending the day with a group of people doing digital stuff for government. Paired with a graduate from NHS Digital, Sam as well. Enjoyed it.
+
+Had a night out with the team from NHS Digital. Had a blast. Pizza. Beers and good company.
+
+## Thursday
+
+Next day at the training started with content design. Sam shone here. It’s always great to see people doing what they love. We also heard from Ed “from slack” Horsford about the journey to create the passport service.
+
+I enjoyed doing an interaction design review with Tim Paul. Piped up a little too much. Particularly here. But interaction design is my jam.
+
+Later on after work met a friend. Had some beers by the river. Funny how far we’d come from when we first met in a small publishing company in Birmingham.
+
+## Friday
+
+Last day in London. Started it early by touring around the City of London and enjoying the sights.
+
+<div class="half">
+  <figure class="noir">
+    <img src="/images/london/noir_gerk.jpg" alt="The Gherkin building in London in black and white with heavy shadows"/>
+    <figcaption>The Gherkin. Always swamped and surrounded by other buildings but standing out by its shape.</figcaption>
+  </figure>
+  <figure class="noir">
+    <img src="/images/london/lloyds.jpg" alt="The Lloyd's building in London in black and white with heavy shadows"/>
+    <figcaption>The Lloyd's building. Brutally showing its bowels.</figcaption>
+  </figure>
+</div>
+
+Training was about using the gov.uk prototyping kit. A couple of the NHS Digital grads didn't get IT to put the kit on their machines. Tried to use a browser based option. But all the platforms had issues. Either with gulp.js (glitch) or with a need for a credit card (Cloud9, Koding) or some bizarre no access to a terminal on free accounts (codio).
+
+Bit frustrating.
+
+I paired with one of the graduates and let her use my machine. It was great to see the GDS designers and frontenders there to help. Being able to cobble together an interactive prototype is a fun and powerful thing.
+
+The room benefitted from there being plenty of examples in the kit as well. Lots of lessons for NHS Digital.
+
+Had to catch up and jump into many conversations through the day about my normal work. Found it a touch stressful as the project is gearing up to go live and not being in Leeds.

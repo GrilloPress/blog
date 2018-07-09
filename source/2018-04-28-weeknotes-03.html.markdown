@@ -1,0 +1,80 @@
+---
+title: Weeknotes 03
+date: 2018-04-28
+week: "23-27th April 2018"
+tags: "Weeknotes"
+layout: weeknote
+published: true
+---
+
+Yet another busy week. Something of a pattern for April.
+
+## Monday
+
+Started the week finishing off.
+
+Error messages. Form downloads for the offline service. Helping the Thunderbird team update the transactional service with some small tweaks. Bit of career management.
+
+Helped get a grad I met at the GDS training in touch with Thunderbird's talented delivery manager.
+
+Spent lunch with a friend from a different team. Ended up in a random Italian place. Talked about the tension of delivery and delivering the right thing.
+
+Met with the service owner. Thrashed out how we are going to help all the teams on the same page.
+
+## Tuesday
+
+Folded in the new HTML email design into the system.
+
+Got told I had to use a real life photo on a slack instance. So, used the first one in my phone. Got trolled hard. Obviously just too saucy. Too Mills and Boon.
+
+  <figure class="noir right">
+    <img src="/images/mills_and_boon.png" alt="A joke mock-up of a Mills and Boon romance novel called 'Kanban at midnight' feating Andrew Duckworth's face"/>
+    <figcaption>Available in all good bookstores... Thanks Dean ;)</figcaption>
+  </figure>
+
+Lost count of the amount of people who told me the photo made me look fatter. Thanks. I think.
+
+Spent some time with the user researchers. Ever since we had to move offices, the whole team hasn't been able to sit together. Although Slack helps. For some people you need to get together face to face.
+
+Talked through the private beta findings. We used ["System Usability Scale"](https://www.usability.gov/how-to-and-tools/methods/system-usability-scale.html) as well as a comprehension survey. Great usability scores. SUS scores place the service in the top 90%.
+
+Comprehension is a worry. There was a recent phrase change that we can point to as causing a drop in comprehension.
+
+Enjoyed going through the screen recordings. Will build the findings into a show and tell.
+
+Met with communications teams from various parts of the organisation. Working out how to help coordinate any old content and how that gets updated.
+
+Talked to a GDS designer about their prototyping kit. Some of the reasoning behind certain design decisions.
+
+The prototyping kit is a tool that brings patterns into life.
+
+As such, less is often more. If you have too many patterns, or too low a bar for a pattern you increase the potential for teams to put in place things that are going to fail.
+
+But, too few, or too high a bar for a pattern, then people will do what they need to do to get the job done right now. Often at the expense of the bigger picture.
+
+## Wednesday
+
+Got asked to produce something for the minister. Asked for clarity on a few things.
+
+Had a meeting with the service owner and content designer. Went through the transactional service. Talked errors, issues to implementation, emails and planning for planning.
+
+Met up with a new designer, Alexandra. Working on the buying catalogue. A market place tool for procurement for CCGs. Interesting stuff. Hard challenges. Loads of potential. Was great to meet her. Had many questions about styles, patterns and standards.
+
+Also talked about measuring usability and comprehension and how to get that in place for alpha.
+
+## Thursday
+
+Large planning meeting with programme, Head of Product and Thunderbird tribe. Pretty productive. No fuss. Bit worried about the level of work I am touching on in the next few weeks. Need to sketch a plan of action. Will pair up with another designer again to get some of the design work into the product for the deadline.
+
+Alongside planning had to pull in some changes for a prototype for
+the minister. Took a fair chunk of the day.
+
+Got invited to talk at Agile Manchester. Taking ["Making UX Agile"](http://uxinthecity.net/2018/manchester/sessions/index.php?session=311 ) on tour.
+
+## Friday
+
+Owned a lot of flexitime. Took some. Alongside a little bit of work on the prototype and the product.
+
+Spent some time exploring the GDS prototype kit and the inner workings. With the aim to pull in some features into my personal kit.
+
+Learnt lots from all the prototypes I've built since early October last year for NHS Digital. Important not to get hung up on all the hacks. Also important to learn from them and make life easier next time.

@@ -1,0 +1,91 @@
+---
+title: Weeknotes 08
+date: 2018-06-01
+week: "28th May to 1st June 2018"
+tags: "Weeknotes"
+layout: weeknote
+published: true
+---
+
+## Monday
+
+Bank holiday. Kept things pretty chilled out.
+
+## Tuesday
+
+Started the day reviewing the activity on the service.
+
+Had a call with the programme to talk through it. Put things into place for analysis. Combed over some numbers and cautioned for no conclusions. Some numbers weren’t pretty. But we don't have enough users through the system.
+
+Made a point of getting the programme director to commit to an in-person design session. Idea being, get everyone in a room. Review data. Co-design solutions and share issues.
+
+In my mind, we have three current concerns.
+
+1. Are we letting the zoomers' zoom and the readers' read?
+2. Are people able to find their NHS number?
+3. Are people able to authenticate? (on scale)
+
+We're too early to come to a position on any of those.
+
+Had a Thunderbird team retro. Talked about issues holding us back and things we did well.
+
+After retro talked a little about future issues to solve.
+
+Started the cookie elaboration for the service.
+
+## Wednesday
+
+Elaborated a bit more on the service’s cookie solution. A solution we had intended to pursue wasn’t quite a fit this second. Had to dig through some other privacy policy stuff.
+
+Had a few questions for the landing page. Resources for professionals etc.
+
+Updated to a final release of a potential service prototype. Regardless if the service is a goer, feel pretty happy with the prototype.
+
+DDC UX team meeting. Our lead researcher went through how we had been using hotjar. In Alpha, Private and now public beta. Limitations and workarounds.
+
+Caught up with the NHS account designers afterwards. Had a good laugh about a few things. Talked about the NHS and branding.
+
+Finished the day having a long catch up with Emma James. Talked through content design. Question design. Content/interaction flows and the weekly design huddle.
+
+Emma agreed to talk through some of the stuff she had been working on at the huddle. Announced it on the design slack channel.
+
+## Thursday
+
+Started the day with a quick technical review for the service’s cookie banner.
+
+Cleaned up some design board stuff. Dean and David volunteered to give an update on the NHSUK redesign work.
+
+Had an assignment review with the service owner.
+
+Caught up with Jordan, a graduate user researcher I am helping career manage. Planned in a performance review.
+
+Also caught up with Sam. Graduate content designer (who dabbles with some interaction design). She was prototyping some questions up. Great to see her grow in confidence. From building her first prototype on the GDS course to using the NHS kit in the NHS account team.
+
+Talked to Emma over slack about input validation and error messages for NHS numbers. Sharing some stuff we found out in research. Then talked about user confusion with national insurance numbers and NHS numbers. Good chat through important stuff.
+
+Went through error messaging hypotheses. Algorithm that you can use to validate NHS numbers. We agreed that there needs to be a standard approach to NHS numbers going forward.
+
+Wrote up a quick hypotheses for when a user enters a national insurance number into the NHS number field.
+
+Reviewed my designs for a “review your answers” page. Felt unhappy with it on mobile and made a few tweaks.
+
+Walked over to BWP for the design huddle.
+
+Had a great session. Particularly enjoyed talking through interaction/content design problems as a group.
+
+Our Head of Design tweeted about it:
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Leeds designers’ huddle <a href="https://twitter.com/NHSDigital?ref_src=twsrc%5Etfw">@NHSDigital</a>. <a href="https://twitter.com/DoTheWords?ref_src=twsrc%5Etfw">@DoTheWords</a> sharing a gnarly content and interaction design challenge to make it simpler for people to sign in to NHS services online <a href="https://t.co/GAO74YPJkO">pic.twitter.com/GAO74YPJkO</a></p>&mdash; Matt Edgar (@mattedgar) <a href="https://twitter.com/mattedgar/status/1002210556290486278?ref_src=twsrc%5Etfw">May 31, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+## Friday
+
+Started Friday with a design backlog review.
+
+Provided some personal review feedback for members of the team. For their career managers.
+
+Product backlog review with service owner. Talked through some concerns and future design work. Not tons on the horizon. Though that always seems to change.
+
+Lunch in the sun. Caught up with some recent ex-Thunderbird team members.
+
+Bit of design work on leaflets and forms. We have a creeping set of landing page requirements that is worrying me.

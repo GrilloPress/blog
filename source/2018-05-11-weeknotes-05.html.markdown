@@ -1,0 +1,122 @@
+---
+title: Weeknotes 05
+date: 2018-05-11
+week: "7-11th May 2018"
+tags: "Weeknotes"
+layout: weeknote
+published: true
+---
+
+## Monday
+
+Bank holiday. Spent it in Cheshire. Sadly felt really ill for most of the day :/
+
+## Tuesday
+
+Worked from home.
+
+Looked into an issue with our analytics during public beta. We need to be clearer on capturing consent. Right now we don’t capture it quite to the standard needed (Post May 25th). There is an organisation-wide solution but it may not actually be ready for our cutoff. Asked a question.
+
+Tweaked a couple of things on a prototype.
+
+Got back to a colleague who had some questions about how we had evolved our site's navigation. Hypothesis driven design to the rescue again. Every change we’ve used a set way of recording changes and the reasons for them. You can find more info on [how we do Hypothesis driven design in this blog post](https://grillopress.github.io/2017/12/10/hypothesis-driven-design.html).
+
+## Wednesday
+
+Sketched some potential solutions. Issue being how we handle important offline forms for very specialist groups. Mocked a few things up. Trying to find something that is sustainable. Something that can deal with shifting requirements.
+
+Had a meeting with the programme and NHSUK team about progress for go live. After that did a technical review of the pages. Caught a couple of small issues.
+
+Worked a little on my part of the "Making UX Agile" talk. Emma Harvey (Head of Product) and I got asked if we could take the show on the road to Agile Manchester. Got told we had extremely positive reviews at UX in the City.
+
+The potential audience was quite different.  So, although the narrative remained similar, I wanted to nail down the main takeaways. See Thursday for those!
+
+## Thursday
+
+In Manchester for "Agile Manchester".
+
+Couldn't quite get into the swing of the event due to other work stuff. Was there with my delivery manager and she also had quite a few things to attend to as well.
+
+Had to duck out of the keynote to make an iteration on a prototype.
+
+Caught an interesting talk from John Clapham called "Kaizen to Karõshi - sustainable pace and performance in teams". Effectively, how and why people burn out. How agile can actually be an excuse for some bad behaviours.
+
+Made me pause for thought.
+
+Look after yourself, and each other.
+
+Co-presented after lunch. Our talk was called [Making UX truly agile](http://agilemanchester.net/2018/sessions/index.php?session=503).
+
+We talked about our journey. Starting from an agile-ish team but with some massive silos. To a well-connected, lean agile design into dev team. We're facing new challenges everyday. But the team feels able to rise to the challenges.
+
+I was the only designer in the room. We had a mixture of developers, delivery staff and agile coaches. I asked how many people had experience of working with designers they felt were "agile" or "lean". I got one half hand-up.
+
+Room to improve designers!
+
+My main points in the talk were:
+
+### 1. Focus on the quality of conversations you have, much more than the quantity
+
+Make it easy to say things of substance.
+
+- Go where the conversations are happening
+- don’t do things - like stand ups etc. - because “that’s how we do things here”. Make sure they’re adding value. If they’re not, change it up
+- talk less, say more. Listen twice as much as you speak up and when you do, make sure it is productive
+- if it feels like it would be awkward or difficult to talk about an issue, talk about it twice as much. Get things in the open. Get things cleaned up and sorted
+- if you get a gut feeling like “really need to catch up with X”. Do it. Don’t delay
+
+Do this and have less "WTF?" and "Why wasn't I told" moments.
+
+### 2. You'll never make design agile on your own
+
+Even if you are the sole designer or have one designer in the team, you'll need help. Empower your team to think about the user. Everyone impacts on the design. In exploration or implementation. Get everyone involved. Make it everyone's problem with yourself (or your designer) as the lead.
+
+- Introduce user outcomes
+- talk about it a lot and use the same language all the time
+- talk about users beyond the "UI" stuff. Non-functional things like security and performance are UX issues too!
+- invite everyone to user research and design stuff
+- Proactively engage and elaborate design things with the development team. Be it your BA, product owner, developer or whatever. Co-craft the implementation
+
+Do this and you'll be able to not only "keep ahead" of the development, but see what's coming up. See what hasn't been thought about. And spend less time telling people "you didn't implement that right".
+
+Saving you time and energy to reinvest in the service or product you are building. And your own mental wellbeing.
+
+### 3. Treat your design process like a design problem. Create, iterate, test, iterate, test, iterate, test
+
+Master your design workflow. Be sure how to take a problem and turn it into an outcome for your user. Make your process repeatable so you can keep iterating your design and iterating your service.
+
+- work out a simple stepped flow on how you finish a piece of design work
+- add phases you'd like or should have (document, design review etc.)
+- use your process. Iterate. Test. Explore what works
+
+In terms of building a process, [I wrote up more about how we used a Kanban board to do just that in this blog post](https://grillopress.github.io/2018/01/08/kanban_for_interaction_design.html).
+
+Once you have a process ask yourself:
+
+- What works?
+- What could you do better?
+- What is too zoomed in? What am I obsessing over?
+- What is too high level? What is important but isn't being captured?
+- Where am I holding things up?
+- Am I finishing things before starting the next lot of work?
+- Where and when do I get design tasks from?
+
+And don't forget to share your process. Talk about it to everyone who will listen. Share it early and often. It's the only way to get better at it.
+
+### 4. There will always be a tension between design and delivery
+
+And that is okay. Design tries to get things right. And delivery is about making a thing real. There is always a need to balance making the right thing and making something real.
+
+You'll never know for sure if something works until it is used by real people. So get something out in front of a user.
+
+Being agile as a designer, or doing agile design, is about finding that path.
+
+## Friday
+
+Bit intense.
+
+Our lead developer announced at standup he would be moving on. Really gutted to hear. He's been great to work with and I will miss him.
+
+To prepare for go live we had loads of attention and requests flying in. Very hectic day.
+
+I'll leave it at that :)

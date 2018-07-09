@@ -1,0 +1,44 @@
+@import 'variables-ux';
+@import 'reboot';
+@import 'typography';
+@import 'pagination';
+@import 'grid';
+@import 'mailchimp';
+@import 'learn-ux';
+
+.hero {
+
+  background-color: $brand;
+  color: $black;
+  padding: 2rem 0;
+}
+
+.container-ux {
+
+  display: grid;
+  grid-gap: 2rem;
+  grid-template-columns: 100%;
+  margin: auto;
+  max-width: 650px;
+  padding: 1rem;
+
+  @media screen and (max-width: $mobile) {
+    grid-gap: .3rem;
+    grid-template-columns: 100%;
+  }
+}
+
+.container-twos {
+
+  display: grid;
+  grid-gap: 1rem;
+  grid-template-columns: 1fr 1fr;
+  margin: auto;
+  max-width: 650px;
+  padding: 1rem;
+
+  @media screen and (max-width: $mobile) {
+    grid-gap: .5rem;
+    grid-template-columns: 100%;
+  }
+}

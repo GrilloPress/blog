@@ -1,0 +1,68 @@
+---
+title: Weeknotes 04
+date: 2018-05-04
+week: "30th April to 4th May 2018"
+tags: "Weeknotes"
+layout: weeknote
+published: true
+---
+
+## Monday
+
+Started the week with some urgent medical care. My own.
+
+After dealing with that, jumped on some frontend tickets for the Thunderbird team. Updated the interruption card in the live service.
+
+We saw some mixed results using the latest version of the "interruption card". It was either not interrupting enough or people were clicking icons. We had hoped that icons would make the card more arresting. But it has not. If anything, it made it more like a graphical element that people skipped.
+
+Started on updating the error messages for the live service too.
+
+## Tuesday
+
+Finished the error messages for pubic beta. Making the service's error messages more actionable.
+
+Asked in the gov slack for advice. Got [some great practical advice about writing error messages]
+(https://docs.google.com/document/d/1mbQPc_YATKR4h7inHMDvE8OLor7crEGP7f7Qd_QszqA/edit?usp=sharing)
+
+Worked through screen recordings of the service. Digesting the feedback from the private beta.
+
+Helped a colleague help a graduate prepare for an internal interview. Always enjoy helping others see how great they are. But also pushing them further.
+
+Wrote and presented at a show and tell. Great to see the researchers work through their findings.
+
+I updated the wider project on the interruption card and upcoming design work.
+
+<figure class="noir">
+  <img src="/images/research_beta.png" alt="Two user researchers standing in front of a television screen"/>
+  <figcaption>Emma and Katharine bossing it at the show and tell.</figcaption>
+</figure>
+
+## Wednesday
+
+Worked on some more frontend cards for the Thunderbird team. This time SMS messages and emails. Took a chunk of the day. Had other personal stuff to deal with too.
+
+Got some good news from some recruitment work I had helped lead on earlier in the year. Passed on that good news.
+
+Sent an email to the programme setting out my understanding of what to do for Friday. Took a few phonecalls to uncover requirements and pragmatic approaches going forward.
+
+## Thursday
+
+Started the day with another call. Explored final content requirements and pragmatic approaches going forward.
+
+Halfway through the day got asked my opinion on some ministerial feedback. Dug out some stats from the private beta period to back up my position. Things like scroll depth, user journeys etc.
+
+Had a few phonecalls to sort a range of issues that sprung out of that. Helped define a few small prototypes that could be of use to explore certain issues.
+
+Worked on those for first thing Friday.
+
+## Friday
+
+Finished four prototypes. Three for the minister in the morning.
+
+Sent a final call on the content and offline forms. Got all the content and packaged it up for a baselined prototype for the NHSUK team. Ready for go live.
+
+Received some updated terms and conditions for the live service.
+
+Helped a junior colleague go through the process to make changes to the live service. Folding in a small content correction.
+
+Exhausting end to a very exhausting week.

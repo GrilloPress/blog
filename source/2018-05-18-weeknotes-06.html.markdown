@@ -1,0 +1,94 @@
+---
+title: Weeknotes 06
+date: 2018-05-18
+week: "12-18th May 2018"
+tags: "Weeknotes"
+layout: weeknote
+published: true
+---
+
+## Monday
+
+Delivery Centre UX team update. Caught up in a meeting beforehand so turned up a few minutes late. Always enjoy hearing what colleagues are up to.
+
+Later on got a very direct design requirement. One that came with the caveat that without it, no live service.
+
+To me it was a solution we had no idea of the impact of that tried to solve a problem we had little to no evidence for. Pushed back but got told in no uncertain terms it wasn't up for negotiation.
+
+Knocked me for six.
+
+Crafted up some HTML for a new privacy notice for the Thunderbird team.
+
+Had a great discussion with the Thunderbird developers later about an API we use. A small chat with the team. Thrashing out and balancing user experience and technical possibility. A great team co-design session amongst a sea of uncertainty and confusion.
+
+One of those moments you feel like as a team you could conquer anything.
+
+## Tuesday
+
+Catch up meeting with the user research team first thing. Talking through some things that will be coming our way. Mitigating some issues going forward and planning the future.
+
+Got an answer back RE: cookies and stuff for the 25th. Plot thickens a little but a clearer choice forward.
+
+Got asked a question. In light of the requirement on Monday I felt the need to state my opinion. Without reservation. Took my time to highlight precedence and GDS standards. Squashed the issue.
+
+Felt empowered I must admit.
+
+Saw the impact of Monday's design requirement's on the service when a few colleagues opened the most recent prototype. It was a little bit like watching a car crash. It was a brutal insight into the confusion the design change will have.
+
+If I thought I was losing sleep over the issue before, this really worried me. On the train home I started drafting notes on how to reverse this requirement. Or mitigate some of the confusion it was causing.
+
+## Wednesday
+
+Started the day finishing off an email highlighting my case against the requirement. Built a case. Laid out the various ways forward. And prayed the email landed.
+
+Helped kickstart a small project team "cookie cutters" swarm on stuff for the 25th May and beyond.
+
+Jumped on various issues throughout the day. Lots of pivots and changes. Many unneeded.
+
+Prepared the ground work for a different project prototype.
+
+## Thursday
+
+Meeting with lead researcher and product owner on new "NHS number" project. Talked about a few issues. Doing one thing per page and the central hypothesis behind the first prototype.
+
+Walked through something I had crafted together on the train into Leeds. Benefit of having a prototyping kit where you can glue things together to test and explore ideas.
+
+Changed up how I built this one in response to picking through the GDS kit. Doing more of the routing stuff on the server rather than on the frontend. Will see if it makes it more flexible for me or not.
+
+Had to jump onto an urgent call. At the end of the call reiterated my points about the requirement I disagreed with. Laid out my position. Final decision was with the senior responsible officer (SRO) later in the day.
+
+Ran across to the NHS Digital design away day. Heard lots of interesting stories. Saw lots of great designs in response to many challenges.
+
+Got to meet up with lots of friends and the cool people from NHS BSA again!
+
+Really enjoyed the guest talk from the NHS BSA team.
+
+Saw a pattern throughout the day.
+
+Those that shared their work early and often had a maturity and coherence to their work compared to those that didn't. It's the key to being a good designer. It's hard. It's scary. But sharing your work will make it better. Particularly before you hit that "I'm comfortable with this" stage.
+
+Wasn't able to have a great chat over lunch as I had to jump onto another urgent call. Bit upset. But that's what happens when you are launching a national service in a week.
+
+Had a great day though. Always feel sad when the day is over. Never enough time to talk to everyone.
+
+Walk back to the train station had a good chat with a colleague or two. Issues shared. Truths told.
+
+On my train back I heard news about the hard requirement I emailed about on Wednesday was being reversed. Moment of great relief. Promised to investigate the concern that caused the requirement.
+
+Can stop losing sleep over it now.
+
+Also had a good chat about cookies and GDPR and what stuff needs to happen to explore the impact of that too. Plans made.
+
+## Friday
+
+Finished off the first prototype for the new "NHS Number" project. Pretty happy with it all things considered.
+
+Crafted up some screens for the cookie project. Wrote up and modelled some proto-personas. Evaluated and ranked some needs. Balanced user needs, business requirements and potential clinical risks.
+
+When your website visitors may be having a heart attack. Or their child is struggling to breathe you have a duty not to get things wrong.
+
+Explored the screens against various websites and pages. Judging the solution against different styles of page. And in different scenarios.
+
+Shared preliminary stuff with the cookie cutters. Tweaked a few things.
+
+Day then went a bit south. Ended up watching my wife connected to all sorts of machines and tests. Frustrating and very long day. All fine in the end. At times it didn't sound like it would end well.
