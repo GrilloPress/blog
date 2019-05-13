@@ -1,0 +1,92 @@
+---
+title: Weeknotes 16
+date: 2018-11-02
+week: "29th October to 3rd November 2018"
+tags: "Weeknotes"
+layout: weeknote
+published: True
+---
+
+Back on the Weeknotes wagon. See how long this'll last...
+
+## Monday
+
+A fair chunk of Monday spent reviewing the work done on the paper forms. Sam (graduate designer) took a day last week to get heads down on the forms. We worked through some issues and translated her content into the new design.
+
+The forms have come a long way. Even from September. Much of that credit to the team jumping into this issue. And Sam's hard work.
+
+In the afternoon the national data opt-out team met up to talk about the research roadmap. We reviewed what we had planned. Including the paper forms and the accessibility audit.
+
+Some extra work planned in for December. Had a good discussion with the programme manager about what we needed to do next.
+
+We also looked at how we are evaluating comprehension. There were a few questions that when we wrote them they worked well enough but now we could see how to improve them.
+
+## Tuesday
+
+Sent over the finished paper forms to the user researchers to help them do a live test of their lab plan.
+
+Backlog review for the national data opt out service. Talked through a few cards and bugs I created.
+
+Spent much of the day with the senior members of the design community talking about design culture. Both in the community and wider organisation.
+
+We celebrated the [new vision for health tech](https://www.gov.uk/government/publications/the-future-of-healthcare-our-vision-for-digital-data-and-technology-in-health-and-care/the-future-of-healthcare-our-vision-for-digital-data-and-technology-in-health-and-care) released by the department of health and social care.
+
+A few of us in the room had written the NHS design principles. But we also pondered how we can get our organisation to talk more about design and its value.
+
+Had a productive chat with the developers about the future product. Not my role, but talked though technical architecture. We talked through how we could make the most developer friendly set up. Whilst maintaining the most device/platform agnostic frontend possible.
+
+Ended the day talking to the audit and transparency team about user research. Design questions and content questions. Always enjoy talking to Lucy, Will and Sam.
+
+## Wednesday
+
+Started the day talking to Will (researcher on audit and transparency) about problem statements. The problem statement had gone through many changes. But there wasn't a confirmed one. I felt we had one pretty much there. With enough scope not to allow for a pivot. We agreed to go for it in the steering group.
+
+Had my first steering group show and tell for audit and transparency. Everything was very positively received. Make sure Sam's good work on the content discovery was front and centre too. One of the clinicians raised a great point. When giving users a look at their medical record you have to be aware there are risks that they are being treated for things they may not think they are. Or how it is recorded in their medical record may make it look more serious than it is.
+
+After the call switched back to the opt-out service's paper forms. Went through the initial feedback and lab plan with the user researchers. A few small things to change and some to watch in the lab next week.
+
+One of the issues was having nothing but a PO address.
+
+I thought the lack of a service name or title for the postal address would make that seem creepy. Rather than secure.
+
+It did.
+
+In the afternoon we had a long user stories review and writing session. Cleared out some older ones. Wrote some cornerstones. More work to do. Good session though.
+
+Finished the day chatting about information architecture to Sam. The picture of the NHS website platform and our user's needs.
+
+## Thursday
+
+Started the day with a chat with the NHS website team with how to get access to edit the website.
+
+Got the audit and transparency team together to talk through content. We talked:
+
+- As is picture
+- Search terms
+- Referrers
+- Organisational strategy
+- the "to be" picture
+
+Best thing we got out of the day was a better understanding of the whole galaxy that our users navigate. When it comes to finding out about their health records, users often start with their GP.
+
+Over lunch heard about what Well Digital have been up to. The format was pretty well organised. It was nice to hear they cared about the human processes behind the digital and not the computers bit.
+
+The thing overran but would have asked about clinical risks.
+
+Talked about the new audit service we are building at the design huddle.
+
+Talked through our design principles and design constraints. Pitched a short sketching challenge too.
+
+I could tell from a few faces that the designers thought the challenge was obvious. But when we talked things through it wasn't.
+
+Many of us in that room have apps and use services that let us audit our activity. In the app or service (energy usage, milage, spend) and some that let us audit how the data about us is generated or shared. Like Uber, Google etc.
+
+## Friday
+
+Not as productive as I'd like. Lots of small things.
+
+Gave a colleague a review of some of the stuff I sent another team. A situation where I tried to help nudge and review some work.
+
+Created some materials for the upcoming lab. Wasn't as straight forward as I had hoped.
+
+Reviewed the paper forms once last time with Sam. Took a decision on a few items that were left outstanding. Everything ready for the lab next Tuesday.

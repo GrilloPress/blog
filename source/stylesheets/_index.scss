@@ -2,15 +2,60 @@
 
 .index {
 
-  background-color: $brand;
-  color: $white;
-  background-image: url("/images/background.svg");
-  background-size: contain;
+  background-image: url("/images/homepage.svg");
+  background-size: 100%;
+  background-repeat: no-repeat;
+
+  @media screen and (max-width: $mobile) {
+    background-size: cover;
+    background-position-x: 62%;
+  }
+
+  .container,
+  .navbar-container {
+
+    grid-template-columns: 100%;
+    max-width: 1110px;
+
+  }
+
+  .list-unstyled {
+
+    li {
+
+      margin-bottom: 8px;
+
+      @media screen and (max-width: $mobile) {
+        margin-bottom: 12px;
+      }
+    }
+
+    a {
+
+      padding: 4px;
+
+      @media screen and (max-width: $mobile) {
+        padding: 6px 4px;
+      }
+    }
+  }
+
+  header {
+
+    grid-column: 1 / 2;
+  }
+
+  .articles {
+
+    grid-column: 1 / 2;
+  }
 
   h1 {
 
-    font-size: 7rem;
+    font-size: 4rem;
     margin: 2rem 0;
+    line-height: 1.1;
+    // background-color: #ffefc1;
 
     @media screen and (max-width: $mobile) {
 
@@ -21,12 +66,14 @@
 
   a {
 
-    color: $brand-secondary;
+    color: $black;
+    background-color: $peach;
+    text-decoration: underline;
 
     &:hover {
 
       color: white;
-      background-color: $brand-secondary;
+      background-color: $purple;
     }
 
   }

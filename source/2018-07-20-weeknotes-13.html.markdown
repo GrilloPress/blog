@@ -1,0 +1,87 @@
+---
+title: Weeknotes 13
+date: 2018-07-20
+week: "16th-20th July 2018"
+tags: "Weeknotes"
+layout: weeknote
+published: true
+---
+
+## Monday
+
+Finished off the short-term roadmap for NHSUK development work. Shared it and asked for feedback.
+
+Met up with the Thunderbird product owner. Heard about a better direction for a large piece of work coming out of discovery.
+
+Attended a Programme patient facing services meeting. Part of a regular Monday meetup. We talked about the various work streams. NHS app integration. Analytics on the service. User journeys on our NHSUK landing pages. Measuring how successful our authentication work has been. And the numbers I dug out about the two-factor element of our service.
+
+Good meeting. Tough things to discuss. But cracking on. Making things better.
+
+After the meeting caught up with our content designer. We talked about my “hub” page concept and his content audit and how to best take those two things forward.
+
+Caught up with the developers and then walked to the Citizen, NHS app and National data opt-out cross-service meeting.
+
+Pitched what I saw as the model of interaction we should be striving for.
+
+I had prepared for this meeting by talking lots. Understanding constraints on all sides (design, technical, delivery).
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Three NHS services in a room. Talking through making things easier. Better. Exploring possibilities and making plans to test things. What I joined <a href="https://twitter.com/NHSDigital?ref_src=twsrc%5Etfw">@NHSDigital</a> to do</p>&mdash; Andrew Duckworth (@AndrewDuck_) <a href="https://twitter.com/AndrewDuck_/status/1018889390473478147?ref_src=twsrc%5Etfw">July 16, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+## Tuesday
+
+Started the day collecting all the improvements we’d made since going into public beta.  For a report to the Department of Health and Social Care.
+
+A large chunk being accessibility improvements. Still lots more to make. But rewarding how much we’ve made the service better already.
+
+Designed a “scheduled maintenance” page for the service. As the service matures, we’re refining the messages people see when things go wrong.
+
+Chased up some work we’re relying on another team to complete. Bit of career management. Training courses. For myself and others.
+
+Started a presentation about the reasons why we should move to a new content architecture. As much an exercise to get myself prepared as anything.
+
+Designed an interaction flow for the service. Exploration of the app/service integration.
+
+## Wednesday
+
+Because we’re distributed around offices, we have two weekly calls for design and research. We talked at length what we saw as the biggest problems facing the service. Came out with an update to our service polls. Had a great session.
+
+Afterwards we had an authentication review. A vital meeting to dig into our biggest problems.
+
+We have a range of potential solutions. In the meeting we thrashed through the pros and cons of each approach. Outcome of the meeting was a sprint based on testing a two-track authentication approach.
+
+After the meeting one of the user researchers said to me “You were really on it!”. Made me laugh.
+
+Asked the programme if there was any possibility we could get a graduate designer to join the team. Got a pretty quick yes. Wrote up the form. Sold the opportunity.
+
+Spent the rest of the day sketching flows and screens for the next prototype iteration.
+
+## Thursday
+
+Started the morning catching up with some of the user centred design team from the Digital Delivery Centre. Then talked service design with Tero and Simon. Integration between Citizen ID and National data opt-out. Both short-term and long-term visions.
+
+Asked the person in charge of the graduate programme if the form was any good. He submitted immediately and said it was great… Finger’s crossed!
+
+Reviewed the new NHSUK grid system. Found a place we’d need an override. Opened an issue for the team.
+
+Bit of admin with the weekly design huddle.
+
+Started a new prototype series to explore the alternative authentication approaches. Was nice to be doing something with my kit again. Although I was ripping lots of things out, I have it all well set up. Integrated some of the NHS number finder code into the kit to get me ahead.
+
+It can be easy as a designer to want to switch tools. To move to the next thing. Though there is much I want to improve in my kit. It works and I’m productive.
+
+Attended sprint planning with the Thunderbird team. Talked the delivery team through the design hypotheses behind the future authentication work.
+
+Also talked through some of the work we’d need to do around the two-factor code screen.
+
+There is often a bit of tension when new work is iterative rather than incremental. A move from 1.0 to 2.0. But understanding the why. The outcomes that are desired makes the jump easier to understand.
+
+Great session as ever.
+
+## Friday
+
+Started the day with a content architecture review. Ian the content designer had crafted up the content and pages he thought vital.
+
+We walked through the hub pages together. Noted a couple of changes. He sent them over ready for a new hub page prototype.
+
+Spent the rest of the day working on the new authentication prototype series.

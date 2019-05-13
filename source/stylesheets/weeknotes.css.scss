@@ -1,12 +1,12 @@
 @import 'variables';
 
-$blockquote-bg: #dbffdc;
-$weeknotes-bg:  #f3fff6;
-$brand-bg: #c1ffd2;
+$blockquote-bg: #ffd660;
+$weeknotes-bg: #fffbf0;
+$brand-bg: #ffefc1;
 
 .weeknotes {
 
-  background-color: $weeknotes-bg;
+
   font-family: 'Overpass', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
 
   .container,
@@ -16,21 +16,50 @@ $brand-bg: #c1ffd2;
     max-width: 650px;
   }
 
+  .subtitle {
+
+    display: inherit;
+    font-size: 60%;
+    font-weight: 400;
+  }
+
+  .dl_element {
+
+    display: block;
+    border-bottom: 1px solid #b4b5b0;
+    padding: 8px 0 0 0;
+
+    dd {
+
+      display: inline-block;
+    }
+
+    dt {
+
+      display: inline-block;
+      min-width: 30%;
+      @media screen and (max-width: $mobile) {
+        min-width: 30%;
+      }
+    }
+  }
+
 
   a {
 
-    color: #a50800;
+    color: #050dea;
     text-decoration: underline;
 
     &:hover {
 
-      background-color: $brand-bg;
+      background-color: darken($body-bg, 8%);
     }
   }
 
   .navbar {
 
-    background-color: $brand-bg;
+    background-color: $body-bg;
+    // border-bottom: 4px double;
 
   }
 
@@ -38,8 +67,8 @@ $brand-bg: #c1ffd2;
 
     a {
 
-      background-color: $black;
-      color: $white;
+      background-color: $peach;
+      color: $black;
       padding: 0 4px;
 
       &:hover {
@@ -55,17 +84,25 @@ $brand-bg: #c1ffd2;
 
   .hero {
 
-    background-color: $brand-bg;
+    // background-color: $brand-bg;
     color: $black;
-    padding: .5rem;
+    padding: 2rem 0 .5rem 0;
+    // background-image: url(/images/background.svg);
+    // background-size: contain;
+
+    h1 {
+
+      font-size: 2.5em;
+    }
+
+    @media screen and (max-width: $mobile) {
+
+      padding: .75rem 0;
+      // font-size: 1.5em;
+    }
 
   }
 
-  blockquote {
-
-    background-color: $blockquote-bg;
-    border: .1rem solid darken($blockquote-bg , 55%);
-  }
 
   figcaption {
 
@@ -126,5 +163,44 @@ $brand-bg: #c1ffd2;
       margin-left: 1px;
     }
   }
+
+  .question {
+
+      margin: 0 0 1rem 1rem;
+      padding-left: 1rem;
+      border-left: 5px solid currentColor;
+  }
+
+}
+
+.design-research {
+
+
+  background-color: lighten($peach, 18%);
+
+  .navbar {
+
+    background-color: $peach;
+
+  }
+
+  .hero {
+
+    background-color: $peach;
+
+  }
+
+  a {
+
+    color: #a50800;
+    text-decoration: underline;
+
+    &:hover {
+
+      color: white;
+      background-color: #a50800;
+    }
+  }
+
 
 }

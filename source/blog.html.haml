@@ -1,0 +1,18 @@
+---
+pageable: true
+per_page: 100
+layout: index
+---
+%main
+  %nav.navbar
+    %div.navbar-container
+      %div
+        = link_to "Andrew Duckworth", "/"
+  %section.container
+    %header
+      %h1 Recent work
+    %section.articles
+      %h2 Articles
+      %ul.list-unstyled
+        - page_articles.each_with_index do |article, i|
+          %li= link_to article.title, article

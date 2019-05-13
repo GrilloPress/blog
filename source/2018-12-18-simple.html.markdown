@@ -1,0 +1,46 @@
+---
+title: Make things obvious
+date: 2018-12-18
+tags: "Design"
+layout: weeknote
+published: True
+---
+
+Good interaction design is about keeping things obvious.
+
+Be it restraining complexity. Simplifying the complex. Or making a way forward clearer.
+
+In the cross-gov slack a question was raised about the best way to show users something was being processed. And that the user would have to wait for a while.
+
+The request was long enough that the designer was worried about a user either trying to refresh the page. Or quit the service.
+
+There are many things you can do to give the user reassurance or understanding.
+
+Disabled buttons, spinners, skeleton pages, spinners in buttons, animations, progress bars etc.
+
+But creativity in this situation is your worst enemy.
+
+One thing that seeing your users use your designs shows you is that anything smart doesn't work.
+
+In isolation things like spinners in buttons can seem like smart solutions.
+
+Surely the thing the user clicked is a great place to give feedback?
+
+But it violates a few things:
+
+- doesn't act like a normal button or link
+- user clicks a button and expects a full page refresh so their focus moves away
+- visually a tiny place to explain a complex thing
+- vague whether it is checking the form or submitting the form or the internet is being terrible
+
+In this scenario the best approach is to be obvious. If the user has submitted data. Act as if that is the case and change the page.
+
+If it may take a while while their data is processed. Make that obvious. Tell them. Particularly so if the transaction is serious.
+
+If you need to give them a sense the page isn't dead. Give them that sense.
+
+Be obvious. Don't let a user guess. If you're too smart, you'll be solving the wrong problem.
+
+Here the effort should be to reassure the user their data has been received and processed. Even if that takes longer than ideal.
+
+Your greatest efforts though should be spent on making your service quicker.

@@ -1,0 +1,44 @@
+---
+title: Weeknotes 17
+date: 2018-11-09
+week: "5th to 9th November 2018"
+tags: "Weeknotes"
+layout: weeknote
+published: False
+---
+
+## Monday
+
+finalised some props for the user lab on Tuesday
+
+- really should have these as organisational templates
+
+market analysis (Uber etc. looking at things that let you audit, review and understand your data and activities)
+
+- new cards and things to explore
+
+design backlog review
+
+- turning everything into cards
+- new cards
+
+GDS feedback. Planning our next steps.
+
+Naming session
+
+information architecture
+
+whiteboard design of the service
+
+## Tuesday
+
+user lab
+
+## Wednesday
+
+
+
+## Thursday
+
+
+## Friday

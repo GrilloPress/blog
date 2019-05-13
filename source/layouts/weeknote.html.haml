@@ -14,7 +14,7 @@
     %meta{:content => "#{ current_page.data.title }", :property => "og:title"}/
     %meta{:content => "#{ current_page.data.week }", :property => "og:description"}/
     %meta{:content => "#{ current_page.data.week }", :property => "og:description"}/
-    %meta{:content => "#c1ffd2", :name => "theme-color"}/
+    %meta{:content => "#eff0ea", :name => "theme-color"}/
     %meta{:content => "https://grillopress.github.io/images/background.png", :property => "og:image"}/
     = stylesheet_link_tag 'main'
     = stylesheet_link_tag 'weeknotes'
@@ -23,7 +23,7 @@
     %link{:href => "https://fonts.googleapis.com/css?family=Overpass:400,700", :rel => "stylesheet"}/
     = javascript_include_tag 'main'
     = favicon_tag '/images/me.jpg'
-  %body{ :class => page_classes + " weeknotes"  }
+  %body{ :class => page_classes + " weeknotes" + " " + current_page.data.tags.gsub(/\,/,"")  }
     %main{:role => "main"}
       %nav.navbar
         %div.navbar-container
@@ -39,9 +39,13 @@
                 = yield_content :hero
               - else
                 %h1
+                  - if current_page.data.subtitle
+                    %span.subtitle
+                      = current_page.data.subtitle
                   = current_page.data.title
-                %p
-                  = current_page.data.week
+                - if current_page.data.week
+                  %p
+                    = current_page.data.week
         %div.container
           %section.blog-post
             = yield

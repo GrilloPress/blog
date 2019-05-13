@@ -1,0 +1,45 @@
+---
+title: One thing per page
+date: 2019-01-31 20:30 UTC
+tags: "Design"
+layout: weeknote
+published: True
+---
+
+Advice that often causes some debate is doing "one thing per page".
+
+The [advice to start with this pattern](https://www.gov.uk/service-manual/design/form-structure#start-with-one-thing-per-page) often runs into resistance for internal teams. Or products with "expert" users.
+
+Whilst helping run a form workshop for "services week" this topic featured. Both in the wider room and one to one.
+
+The argument is that lots of questions will slow down users who have to do a thing 50 times a day.
+
+This is a fair criticism.
+
+If your users use an interface everyday, the patterns that work for them may be different.
+
+For me though, I like to explain the "one thing" a little differently.
+
+That is, "one thing" is a flexible concept. Yes, it can mean one question or one input. But one thing can also mean several inputs but one concept.
+
+For a user who submits identical claims 50 times a day the whole "claim" could be one thing. A user who uses your service once a year won't have the whole thing in their head.
+
+The question isn't "should we do one thing or lots of things?". It is establishing what task users want to do. What sized task they can do without having to think.
+
+The question isn't whether your user should do "one thing" or not. It is what that one thing means.
+
+The worst thing you can do though is assume that your users can cope with several things per page without evidence.
+
+A little while back I reviewed a team's service. They had some serious issues with users struggling to complete their registration process. They tried to cover this with a "save and continue" button.
+
+But the solution was solving the symptom.
+
+The issue was that they were assuming too much. Assuming that their users would understand the questions they were asking.
+
+They had rejected the "one thing per page" pattern as needing "too many clicks". But had they used it, they would have discovered the questions that users found easy. And those they found hard. Those questions that could grouped. And those that needed another page.
+
+Users were struggling on the third question into the service. They had assumed their professional users would know the answer to these questions. They didn't.
+
+Start by breaking down what you need from your user into the smallest questions possible. Only deviate when you have good evidence you can group questions together.
+
+Start with one thing per page. The smallest thing. And only expand when you have clear evidence to do that. But also find out what that "one thing" means. And the best way to ask it. Whether it is one question or several.

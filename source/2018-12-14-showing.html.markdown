@@ -1,0 +1,34 @@
+---
+title: Show at your show and tell
+date: 2018-12-14
+tags: "Design"
+layout: weeknote
+published: True
+---
+
+We've recently been reviewing some of the language we use in our service. What the terms mean and the implications they have for understanding the service. And how the NHS works in general.
+
+This has been quite a contentious issue within the team because we want to balance between being:
+
+- easy to understand
+- comprehensive and transparent
+- words people use themselves
+
+We've run some pop-ups and a lab to focus on the words we use. In particular our service name and how we define the data people have a choice over.
+
+We're getting closer to the point where we have a strong sense of direction. Nothing is easy here. But a sense of direction.
+
+The work we had been doing recently culminated in a show and tell after a lab.
+
+It was a great show and tell. What was the greatest part was letting the users talk.
+
+We had video after video on the same issue. What "confidential patient information" meant.
+
+It struck me as being one of the better show and tells I've been to for a while because:
+
+- everything was on a topic we cared about
+- we let users do the talking
+- we discussed the issue as a team
+- and came together to the solution
+
+Sometimes you have to pitch a vision, but when you can, let your users talk. It's a lot more powerful than summarising their words.

@@ -156,9 +156,11 @@ dd {
 
 blockquote {
   margin: 0 0 1rem;
-  background-color: wheat;
   padding: 1rem;
-  border-left: 5px solid goldenrod;
+  background-color: inherit;
+  border: 1px solid;
+  border-left: 5px solid currentColor;
+
 }
 
 dfn {

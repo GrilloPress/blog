@@ -1,0 +1,80 @@
+---
+title: Weeknotes 14
+date: 2018-08-06
+week: "6-10th August 2018"
+tags: "Weeknotes"
+layout: weeknote
+published: True
+---
+
+## Monday
+
+Started the day with the regular UX meeting. Talked about the lab for the next day. Timing wise and what we need to cover is pretty tight.
+
+Prototype ready to go. Added some behaviour to simulate live timings and behaviour.
+
+I typically don’t simulate things like spinners and delay in a prototype. The idea being that a prototype is testing a hypothesis. Not your ability to make it seem like live. But what we’re testing is behaviour influenced by time. Delay. And the impact of failure.
+
+We’re exploring adding an extra way to find your credentials. Right now, we have a high percentage chance of finding users’ contact details. But, we are asking that they use their NHS number. We’re exploring alternatives.
+
+Alternatives that may not suit everyone. And introduce new potential failures. But also make the service easier to use first time for many more people.
+
+Spent a lot of the day chatting with a colleague Ben. Lots of fun but also sharing research and ideas. Images, designer collaboration. Ensuring styles stay consistent. Helping new and emerging services learn from what has gone before.
+
+In that vein, reached out to a colleague. Offered some help on a few things that I felt weren’t quite right. Planned to work together and get stuff going in the right direction.
+
+## Tuesday
+
+All day in the lab.
+
+Nine people through three prototypes.
+
+Exploring how we could open up the way people authenticate using the service.
+
+We had people from NHS England, Department of Health and NHS Digital observe together. As well as some very senior stakeholders. Which was great to see. A result of hard work campaigning and pushing a user-centred agenda.
+
+Some interesting moments in the lab but not as much clarity as hoped for the path forward.
+
+One moment was when a user said they preferred a version they struggled with. One of the programme manager's asked "why?". It was a great teaching moment that what people ask for, isn't always what works.
+
+## Wednesday
+
+Day after the lab. Planned some initial steps forward with the service’s authentication design.
+
+Extensive talk with the researchers to plan some A/B testing.
+
+Off project work. Working on a more aligned style for a colleague. Simpler screens. One thing at a time. Not one field. But one ask for the user. It doesn't matter if your users are skilled administrators.  You treat them with the same care and attention you would on any other project.
+
+## Thursday
+
+Extremely busy day.
+
+Caught up with a colleague Dan who used to be on my project. Was great to catch up and talk through his work and catch up him up on some of the things I’d been up to.
+
+Walked over to my new office. Tagged along with a researcher Lucy who I enjoy chatting with. She’ll be on a project that I will lead design on. Looking forward to working with her and another researcher Will.
+
+New office is nice. Have a whole floor to ourselves and lots of whitespace. And a football goal!
+
+Walked into a crisis. Something in the “do later” column was now “get it done yesterday”.
+
+Went over to another office to attend a meeting I had set up. Originally to sketch out the interaction flow, but now more of a crisis meeting. Productive meeting. Got to eek out the problems we need to tackle. A shared response as well as way forward.
+
+Back over to the new office and walked into a technical deep-dive. Some possible ways forward immediately became problematic.
+
+It was intense. But enjoyable as well. A team pulling together.
+
+Played a little football together and then broke for lunch.
+
+After lunch across Leeds once again to meet the researchers and talk through our A/B testing scenarios. We mapped out our ideas. Where we needed to split users. Type of activity you can tie yourself up in knots.
+
+Back again across Leeds to the new office. Again walking into a few more discussions. A few more constraints uncovered. A direction forward starting to take shape.
+
+## Friday
+
+Worked from home.
+
+Spent most of the day working on a framework to help do all the A/B testing. Just simple JavaScript.
+
+Added it to my prototype and cut two versions to test. Created a landing page for the experiment as well as a end page.
+
+Shared the prototype with the researchers. Now to chuck 250 people at it.

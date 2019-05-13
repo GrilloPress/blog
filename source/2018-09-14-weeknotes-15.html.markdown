@@ -1,0 +1,68 @@
+---
+title: Weeknotes 15
+date: 2018-09-14
+week: "10-14th September 2018"
+tags: "Weeknotes"
+layout: weeknote
+published: True
+---
+
+Trying to keep these even leaner. Going to focus on a few themes from a week.
+
+## Paper forms
+
+On a personal crusade with paper forms right now. We have three for patients. And soon have some for prisoners (filled in by prison medical staff on behalf of a prisoner).
+
+They're not good enough. People can muddle through them. But they're not the standard we need to be hitting.
+
+On the back of a great session at the design huddle with Caroline Jarrett I had a strong action plan. I even tweeted it for feedback:
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Any other solid ways of researching paper forms?<br><br>We&#39;re doing:<br><br>+ looking at real paper form submissions<br>+ working with team who get forms and action them<br>+ user lab focused on paper forms<br>+ Challenging the need for stuff in the forms 😁</p>&mdash; Andrew Duckworth (@AndrewDuck_) <a href="https://twitter.com/AndrewDuck_/status/1039789320792666112?ref_src=twsrc%5Etfw">September 12, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+And got even greater feedback and connections to people willing to help.
+
+The programme agreed to do everything to make them better. With a bit of campaigning we've got access to the current filled in forms and will review them next Wednesday as a team. We've also booked in a lab and potentially some pop-up testing.
+
+I've created a clean form system. Brutally simple graphic design system. Now to make our process brutally simple for our users.
+
+## Design meet up!
+
+This week it was the quarterly all-hands design meet. In London this time.
+
+I enjoy going to London. That said, though the venue was great, it wasn't as iconic or scenic a walk this time. And it was also a rather painfully long day. Thanks trains!
+
+During the day I got to express my inner artiste:
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">The best name badge I ever did have. Thank you <a href="https://twitter.com/AndrewDuck_?ref_src=twsrc%5Etfw">@AndrewDuck_</a> 🦄 <a href="https://t.co/cH2DBkcFRu">pic.twitter.com/cH2DBkcFRu</a></p>&mdash; Louise Mushet (@louisemushet) <a href="https://twitter.com/louisemushet/status/1039883809553084416?ref_src=twsrc%5Etfw">September 12, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+And hang with lots of cool people. (Special shout out to Louise Mushet who made the day extra fun without a few of my design besties!)
+
+During the day the rapid paced 5 min show and tells worked well in quickly letting everyone show a thing. Be present. Be the centre of attention. But they also too short and leave no room for chats.
+
+I nicked time in each talk to ask a question. So when people were swapping over I'd ask a question. But they left me wanting more. Much more.
+
+When you get together so many smart people I feel you have to give space to comments. That freeform discussion space is where designers shine.
+
+Lunch was amazing. Hat tip to Pete "Two sheds but actually I only have one right now because I gave my son a shed" Smith. We had to walk for it but I had a great plate of chicken kabab and chips.
+
+All in all it was a great day. Loads of smart, fun people in the room. Really well put together by the London design gang!
+
+## Stuff for admin users
+
+Something that popped up at the design away day. And reviewing some work recently, is the attitude towards professional/admin users by designers.
+
+Something I've heard elsewhere was lots of excuses how "that" group of users are different. Like they can't be overworked. Distracted. Confused. Need full love and attention.
+
+Happily we have lots of designers who care. But plenty don't. Plenty throw away solid patterns because things aren't "citizen facing".
+
+Like admin staff aren't "citizens".
+
+Yes, if a user does a thing 20 times a day, certain patterns may need to be tweaked. Tweaked not destroyed.
+
+Designers should be responding to user needs not preconceptions. And it makes me shudder when those preconceptions don't have a date with user testing.
+
+Does your user do that thing 20 times a day?
+
+I asked this question recently to a designer and the answer was 3 times a year. That isn't an interface that they know by heart. That isn't an interface they have muscle memory developed for.
