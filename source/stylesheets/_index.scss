@@ -2,9 +2,10 @@
 
 .index {
 
-  background-image: url("/images/homepage.svg");
+  // background-image: url("/images/background_new.png");
   background-size: 100%;
   background-repeat: no-repeat;
+  background-position: bottom;
 
   @media screen and (max-width: $mobile) {
     background-size: cover;

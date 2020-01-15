@@ -1,0 +1,88 @@
+---
+title: "Yearnote: 2019"
+date: 2019-12-28 07:30 UTC
+tags: "Design"
+layout: weeknote
+published: True
+---
+
+It’s been a year. Lots of things I hope I’ll not have to deal with again. And some I know I will.
+
+It’s tempting to put 2019 straight in the bin. From a work point of view I’ve had plenty of downs this past year. And recently I had been feeling out of sorts.
+
+But taking some advice I’ve given others plenty of times. I made a list of some stuff that was pretty cool that I did in 2019.
+
+Some of the stuff I did:
+
+* Finished an alpha into how health records are used, successfully not building a service that would have increased burden on the NHS
+* Passed live service assessment for the opt-out service. First NHS service to do so!
+* Led a discovery into the uses of patient data for research. Helped the NHS pivot from building a costly service and find other ways to satisfy uncovered needs
+* Steered a discovery looking into how patients get contacted/communicated with. Ended by having my recommendations taken seriously by those at the very top of the NHS
+* Helped Sam and Rhiannon develop as people, professionals and pass their end of graduate scheme assessments
+* Designed an MVP notifications and messaging service
+* Helped reshape the short/medium term future of appointments in the NHS App
+* Presented at 2 NHS Digital code clubs. Helping loads of people get to grips with coding
+* Ran the weekly NHS Digital design meet-ups in Leeds
+* Helped lots of colleagues design better shit and create some cool prototypes to test their thinking
+
+In 2019 I led 4 discoveries, 3 alphas, 1 beta and taking 1 service into live management.
+
+Not bad.
+
+Maybe 2019 doesn’t belong _completely_ in the bin.
+
+2019 was full of opportunities and I'm grateful for those.
+
+Though it wasn't calm.
+
+Something I'm going to try be smarter with the opportunities that come my way.
+
+Rather than saying no though. I'm going to try to pass on and share opportunities that don't quite fit.
+
+I did that last summer and it turned out to be a great decision. For me. And the team too because I was able to give the opportunity to one of the best designers I know.
+
+More of that in 2020.
+
+## Stuff I wrote in 2019
+
+### Articles
+
+I wrote 16 articles. Most based on advice I gave someone in person. Or to remind myself to do better next time.
+
+<% blog.articles.group_by {|a| a.date.year }.each do |year, articles| %>
+<% if year == 2019 %>
+<ul>
+<% articles.each do |article| %>
+<% if article.data.tags == 'Design' %>
+<% unless article.title == 'Yearnote: 2019' %>
+<li><a href="<%= article.url %>"><%= article.title %></a></li>
+<% end %>
+<% end %>
+<% end %>
+</ul>
+<% end %>
+<% end %>
+
+I also wrote a pattern about asking patients for their NHS number. Which is much better now. Through feedback from the wider NHS design community. And the service manual team at NHS Digital.
+
+<ul>
+  <li><a href="https://beta.nhs.uk/service-manual/styles-components-patterns/nhs-number">Ask users for their NHS number</a></li>
+</ul>
+
+### Discovery notes
+
+In April I also wrote weeknotes for each week of a discovery into the uses of data in the NHS
+
+<% blog.articles.group_by {|a| a.date.year }.each do |year, articles| %>
+<% if year == 2019 %>
+<ul>
+<% articles.each do |article| %>
+<% if article.data.tags == 'Discovery' %>
+<% unless article.title == 'Yearnote: 2019' %>
+<li><a href="<%= article.url %>"><%= article.title %></a></li>
+<% end %>
+<% end %>
+<% end %>
+</ul>
+<% end %>
+<% end %>
