@@ -1,0 +1,35 @@
+---
+title: "Do less"
+date: 2020-02-18 07:30 UTC
+tags: "Design"
+layout: weeknote
+published: True
+---
+
+The single most powerful thing to getting great performance from a team is doing less.
+
+Restricting scope. Adding a constraint.
+
+Last week I talked a team through some of my discovery work. They’re picking up the work for alpha.
+
+My strongest bit of advice from what they had started with was to do less.
+
+The discovery made several recommendations. And I could see the team was chomping at the bit to get lots done.
+
+But in trying to get to the bigger goals they’d tried to tackle three or four problems at once.
+
+With the size of the health and social care sector, even a small problem has immense scale.
+
+By allowing patients to do simple things like check and update their contact details online we solve multiple needs. Improve the quality of data. And give services better quality data. And confidence in that data.
+
+We also extract value from processing people are already having to go through.
+
+The idea is a small service. But doable. And something that can impact 60 million records. And give patients more control.
+
+By doing less they’ve got more chance of having a big impact. Of navigating policy and law. Of getting something live and learning.
+
+It makes things much clearer. And it also lets you get deeper into things. And you spot opportunities and issues earlier.
+
+By reducing scope you can also finish work. The teams I see struggling are the ones who get 80% of their work done but can’t finish off before the next chunk of work comes along.
+
+Do less. Get things live. And learn. Then you can evaluate what value there is in doing more or something else.
