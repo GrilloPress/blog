@@ -3,11 +3,22 @@ pageable: true
 per_page: 100
 layout: index
 ---
+%nav.navbar
+  %div.navbar-container
+    %div
+      = link_to "Andrew Duckworth", "/"
 %main.container{:role => "main"}
   %header
     %h1 Andrew Duckworth
+    %section
+    .featured--link
+      %a{:href => "/2017/12/10/hypothesis-driven-design.html"} Hypothesis driven design
+    .featured--link
+      %a{:href => "/2019/01/31/one-thing.html"} One thing per page
+    .featured--link
+      %a{:href => "/2019/03/18/do-the-hard-work-to-make-it-inclusive.html"} Do the hard work to make it inclusive
   %section.articles
-    %h2 Articles
+    %h2 Latest articles
     %ul.list-unstyled
       - page_articles.each_with_index do |article, i|
         - if article.data.tags == 'Design'
