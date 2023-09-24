@@ -27,7 +27,7 @@ A service designer doesn’t have to be the one to do this work. Though it helps
 
 But there’s nothing that sells the value of designers in a room than things like making a transaction less rubbish. Giving a better shape to a product than when no designer was involved.
 
-Something I’m a big fan of is the [“Danish Design Centre’s design ladder”](https://danskdesigncenter.dk/en/design-ladder-four-steps-design-use). It’s a model for explaining how companies use design.
+Something I’m a big fan of is the [“Danish Design Centre’s design ladder”](https://heybrand.de/design-ladder/). It’s a model for explaining how companies use design.
 
 From not doing it, to it being a form giving act to it shaping strategy.
 
