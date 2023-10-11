@@ -26,10 +26,10 @@ There can be many ways a team develops this blindspot:
 
 There are a few questions you can ask yourself or your team to try and guard against making this mistake. Such as:
 
-- Is this service used by people who don’t need to see this question/feature? 
-- What number of people will understand this question? 
+- Is this service used by people who don’t need to see this question/feature?
+- What number of people will understand this question?
 - Does this question or flow cater to the majority or a minority of journeys?
-- Is how we are wording a question presume a certain knowledge? And is that knowledge going to be common amongst our users? 
+- Is how we are wording a question presume a certain knowledge? And is that knowledge going to be common amongst our users?
 
 When tasked with rapidly adding an important new journey or new feature it can be easy to give the new thing massive prominence. But new does not mean it’s something that the majority will use. Nor understand.
 
