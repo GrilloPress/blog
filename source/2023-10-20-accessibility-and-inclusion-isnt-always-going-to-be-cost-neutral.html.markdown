@@ -26,7 +26,7 @@ But really knowing and taking time to include different voices can be slow. Espe
 
 And that's where the cost can be. The time it takes to make sure everyone can use the thing. Or the rework and tweaking of a live product that has to happen even for a very small group of users.
 
-So it’s thing to balance. Be clear about the benefits and strengths of an approach. But don’t sell out inclusion as just a cost saver or money spinner. Sometimes it will cost more. And that’s okay. That’s being human. And making things for all people.
+So it’s thing to a balance when explaining why we make things accessible and inclusive. Be clear about the benefits and strengths of an approach. But don’t sell out inclusion as just a cost saver or money spinner. Sometimes it will cost more. And that’s okay. That’s being human. And making things for all people.
 
 And the same with your minimum legal requirements. They’re a good motivator and benchmark. But also only the most minimal approach. When they become the bar to meet you’ll find you’ll have something meeting the standard but not making everything possible or inclusive.
 
