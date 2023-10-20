@@ -4,7 +4,7 @@ title: Accessibility and inclusion isn't always going to be cost neutral
 date: 2023-10-20 17:59 UTC
 tags: "Design"
 layout: weeknote
-published: False
+published: True
 
 ---
 
