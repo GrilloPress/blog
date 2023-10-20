@@ -18,7 +18,7 @@ Much of codesign reminds me of the “carnivalesque”.
 
 ## The carnivalesque
 
-The carnivalesque is a literary and cultural concept. It refers to a temporary mode of subversion and rebellion against social norms and conventions. It originated from the medieval carnival.
+The [carnivalesque](http://www.longwood.edu/staff/mcgeecw/notesoncarnivalesque.htm) is a literary and cultural concept. It refers to a temporary mode of subversion and rebellion against social norms and conventions. It originated from the medieval carnival.
 
 <figure class="noir">
     <img src="/images/pieter-bruegel.jpeg" alt="Carnival and debauchery on show in a painting from Pieter Bruegel the Elder, painted during the 16th century."/>
