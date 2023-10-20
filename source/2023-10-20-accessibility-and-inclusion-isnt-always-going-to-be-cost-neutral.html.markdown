@@ -8,11 +8,11 @@ published: True
 
 ---
 
-I believe that designing accessible inclusive interfaces is largely beneficial for all users experience to make things usable.
+Designing accessible inclusive interfaces is largely beneficial for all users. Making things more usable.
 
 And with things being usable. More profitable. More successful. With less failure demand.
 
-You see it in research where people will say they prefer an all at once on 1 page approach but really don’t quite understand or get the thing. But when they use the more inclusive approach, and contrary to what they say about clicks or several pages, they go faster and get what they need.
+You see it in research where people will say they prefer an all at once on 1 page approach but don’t quite understand or get the thing. But when they use the more inclusive approach, and contrary to what they say about clicks or several pages, they go faster and get what they need.
 
 But like with anything. Sometimes doing the right thing comes at an expense
 
@@ -26,8 +26,8 @@ But really knowing and taking time to include different voices can be slow. Espe
 
 And that's where the cost can be. The time it takes to make sure everyone can use the thing. Or the rework and tweaking of a live product that has to happen even for a very small group of users.
 
-So it’s thing to balance. Be clear about the benefits and strengths of an approach. But don’t sell out inclusion as *just* a cost saver or money spinner. Sometimes it will cost more. And that’s okay. That’s being human. And making things for all people.
+So it’s thing to balance. Be clear about the benefits and strengths of an approach. But don’t sell out inclusion as just a cost saver or money spinner. Sometimes it will cost more. And that’s okay. That’s being human. And making things for all people.
 
-And the same with your minimum legal requirements. They’re a good motivator and benchmark. But also just the most minimal approach. When they become the bar to meet you’ll find you’ll have something technically meeting the standard but not necessarily making everything possible or inclusive.
+And the same with your minimum legal requirements. They’re a good motivator and benchmark. But also only the most minimal approach. When they become the bar to meet you’ll find you’ll have something meeting the standard but not making everything possible or inclusive.
 
 Make your design technically accessible. And take an inclusive approach. It opens things up. But it doesn’t always cost less or open more wallets. Sometimes it’s the right thing to do. And if your principles don’t cost you anything or only make you money. Are they principles anyway?
