@@ -8,13 +8,11 @@ published: True
 
 ---
 
-Designing accessible inclusive interfaces is largely beneficial for all users. Making things more usable.
-
-And with things being usable. More profitable. More successful. With less failure demand.
+Designing accessible inclusive interfaces is largely beneficial for all users. Making things more usable. And with things being usable. More profitable. More successful. With less failure demand.
 
 You see it in research where people will say they prefer an all at once on 1 page approach but don’t quite understand or get the thing. But when they use the more inclusive approach, and contrary to what they say about clicks or several pages, they go faster and get what they need.
 
-But like with anything. Sometimes doing the right thing comes at an expense
+But like with anything. Sometimes doing the right thing comes at an cost.
 
 And that’s okay. That’s the point. It’s about opening things up for all. Not because we’re opening up every wallet.
 
@@ -30,4 +28,6 @@ So it’s thing to a balance when explaining why we make things accessible and i
 
 And the same with your minimum legal requirements. They’re a good motivator and benchmark. But also only the most minimal approach. When they become the bar to meet you’ll find you’ll have something meeting the standard but not making everything possible or inclusive.
 
-Make your design technically accessible. And take an inclusive approach. It opens things up. But it doesn’t always cost less or open more wallets. Sometimes it’s the right thing to do. And if your principles don’t cost you anything or only make you money. Are they principles anyway?
+You can also make the cost of doing things in an accessible and inclusive way if you do it early. If you make your technical foundations something that makes it easy. Rather than hard. And if you make being inclusive part of your day to day business. The cost things out and you have longer to benefit from opening your product or service for all.
+
+So, make your design technically accessible. And take an inclusive approach. It opens things up. But it doesn’t always cost less or open more wallets. Sometimes it’s the right thing to do. And if your principles don’t cost you anything or only make you money. Are they principles anyway?
