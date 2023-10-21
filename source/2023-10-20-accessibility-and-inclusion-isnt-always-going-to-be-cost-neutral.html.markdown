@@ -16,6 +16,8 @@ But like with anything. Sometimes doing the right thing comes at an cost.
 
 And that’s okay. That’s the point. It’s about opening things up for all. Not because we’re opening up every wallet.
 
+<img src="/images/wallets.jpeg" alt="lots of wallets"/>
+
 Yes that definitely happens. But it’s not always going to be like that.
 
 You shouldn’t underestimate what opening up your product can do. But it’s not a promise. An accessible product that meets no needs still meets no needs.
