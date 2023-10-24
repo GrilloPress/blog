@@ -1,6 +1,6 @@
 ---
 
-title: User stories arent the tale for discovery
+title: User stories aren't the tale for discovery
 date: 2023-09-29 17:59 UTC
 tags: "Design"
 layout: weeknote
