@@ -5,6 +5,7 @@ date: 2023-10-20 17:59 UTC
 tags: "Design"
 layout: weeknote
 published: True
+pic: "/images/wallets.jpeg"
 
 ---
 

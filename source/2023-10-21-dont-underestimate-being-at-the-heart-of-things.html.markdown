@@ -5,6 +5,7 @@ date: 2023-10-21 18:20 UTC
 tags: "Design"
 layout: weeknote
 published: True
+pic: "/images/at the heart.jpeg"
 
 ---
 

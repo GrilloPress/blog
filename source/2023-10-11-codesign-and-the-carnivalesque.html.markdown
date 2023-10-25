@@ -5,6 +5,7 @@ date: 2023-10-11 18:14 UTC
 tags: "Design"
 layout: weeknote
 published: True
+pic: "/images/pieter-bruegel.jpeg"
 
 ---
 
