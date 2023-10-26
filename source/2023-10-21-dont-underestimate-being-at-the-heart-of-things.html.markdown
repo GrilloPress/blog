@@ -9,7 +9,7 @@ pic: "/images/at the heart.jpeg"
 
 ---
 
-A service I worked on from March is starting to roll out. When I landed in that team, needing some service design help and leadership, it felt they were the furthest away from every making something real. And now it’s going to get very real.
+A service I worked on from March is starting to roll out. When I landed in that team, needing some service design help and leadership, it felt they were the furthest away from making something real. And now it’s going to get very real.
 
 Like all projects there’s lots to reflect on.
 
