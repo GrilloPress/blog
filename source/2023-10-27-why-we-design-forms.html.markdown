@@ -95,7 +95,7 @@ The reasons you should still work with a designer are they:
 - identify or make sure of quick wins for usability
 - avoid costly revisions because things don't work or increase workload
 
-A form builder or design system will not give you these things. A team without someone a designer will find it harder to get this right.
+A form builder or design system will not give you these things. A team without a designer will find it harder to get this right.
 
 A good chunk of contact centre improvements I've made have started with poor data collection or bad processes that needed changing. And when teams look to design forms they also identify back office processes that need improving across the whole service. So you might start with the form but end up improving and optimising many processes and things.
 

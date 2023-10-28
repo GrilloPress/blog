@@ -10,6 +10,7 @@ pic: "/images/at the heart.jpeg"
 ---
 
 
+
 <h2 class="h3">Finding a way to work with a designer</h2>
 
 If you're in any sort of government or enterprise organisation. There's a good chance there are some designers around. Find them. From paying for 1 to working out a support arrangement or some "crits". Find a way to get input.
