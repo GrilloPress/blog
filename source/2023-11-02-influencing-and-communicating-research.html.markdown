@@ -1,6 +1,6 @@
 ---
 
-title: Influencing and communicating research course
+title: Making your research and insights make an impact (course)
 date: 2023-11-02 18:40 UTC
 tags: "Design"
 layout: weeknote
