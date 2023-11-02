@@ -27,7 +27,7 @@ If it's hard to complete a form then policies and products fail. Or make much le
 
 Good designers make [forms better and quicker and easier to complete](https://dl.acm.org/doi/epdf/10.1145/2556288.2557265). And find ways of making improvements to processes. Like the [register to vote team](https://designnotes.blog.gov.uk/2015/09/15/make-sure-this-is-right-a-new-email-confirmation-pattern/) which improved how they captured emails helping 50,000 more people use the service each month.
 
-Similarly designers make things more profitable by looking at the small details. [Ebay made an additional $500 a year just from redesigning a button](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=ux+form&btnG=#d=gs_qabs&t=1698349420840&u=%23p%3DBjPQ7SL3NoIJ) on their mobile website.
+Similarly designers make things more profitable by looking at the small details. [Ebay made an additional $500 million a year just from redesigning a button](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=ux+form&btnG=#d=gs_qabs&t=1698349420840&u=%23p%3DBjPQ7SL3NoIJ) on their mobile website.
 
 <h2 class="h3">Bad data undermines systems and businesses. Good form design reverses this</h2>
 
@@ -71,9 +71,9 @@ Many of these technical requirements are open to interpretation. And need domain
 
 <h2 class="h3">Designers are experts at explaining and getting the right information in a form</h2>
 
-<div class="right">
-    <img src="/images/wireframes - andrew duckworth.jpeg" alt="Roy Litchenstien inspired artwork of UX wireframes"/>
-  </div>
+<div class="right fig-right">
+  <img src="/images/wireframes - andrew duckworth.jpeg" alt="Roy Litchenstien inspired artwork of UX wireframes"/>
+</div>
 
 Your product or service has a form. It needs information. And it may also use that form to display data in a process or flow. Designers are experts at designing the form and how it sits within a journey.
 

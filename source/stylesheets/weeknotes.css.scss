@@ -16,6 +16,13 @@ $brand-bg: #ffefc1;
     max-width: 650px;
   }
 
+  blockquote {
+
+    background-color: #e2e3db;
+    border: 1px solid #c5c5c1;
+    border-radius: 2px;
+  }
+
   .subtitle {
 
     display: inherit;
@@ -150,6 +157,12 @@ $brand-bg: #ffefc1;
     color: $white;
   }
 
+  .fig-right {
+
+    margin-left: 1rem;
+    margin-top: .5rem;
+  }
+
   .nhs-number-format {
 
     font-weight: 800;
@@ -203,4 +216,22 @@ $brand-bg: #ffefc1;
   }
 
 
+}
+
+.ticket-box {
+
+  border: 1px solid;
+  border-radius: 0.5px;
+  padding: 0.33rem;
+
+  h2,
+  h3 {
+
+    font-size: 1.5rem;
+
+  }
+
+  p {
+    font-size: 1.2rem;
+  }
 }
