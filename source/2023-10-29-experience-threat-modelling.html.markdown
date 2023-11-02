@@ -4,7 +4,7 @@ title: Experience-threat modelling
 date: 2023-10-29 13:36 UTC
 tags: "Design"
 layout: weeknote
-published: Ture
+published: True
 pic: "/images/lots of people.jpeg"
 
 ---

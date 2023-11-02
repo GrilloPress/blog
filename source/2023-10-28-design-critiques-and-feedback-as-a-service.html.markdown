@@ -27,6 +27,10 @@ In many enterprise or government departments you don't always get to put designe
 
 When I worked in a local hospital. There was no UX team. Only people who cared about doing things right. Or making interfaces. A blend of UX, UI and frontend people. As well as patient advocates and quality improvement people.
 
+We built a semi-structured community. A group of people who helped each other. 
+
+When I worked at NHS Digital I helped look after our design community. Growing and sustaining it so it could support any team with advice and guiadnce. And when I led design in UKHSA, I helped support the UCD team rethink it's content design community meetups in the light of drastically smaller numbers of designers post-covid.
+
 <h2 class="h3">Finding a way to work with a designer</h2>
 
 . There's a good chance there are some designers around. Find them. From paying for 1 to working out a support arrangement or some "crits". Find a way to get input.

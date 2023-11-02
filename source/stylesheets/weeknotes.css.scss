@@ -235,3 +235,15 @@ $brand-bg: #ffefc1;
     font-size: 1.2rem;
   }
 }
+
+.ticket-box__no-outer {
+  border-width: 1px 0;
+  margin-bottom: 1rem;
+}
+
+.unstyled {
+
+  list-style-type: none;
+  padding: 0;
+  margin-bottom: 0.33rem !important;
+}
