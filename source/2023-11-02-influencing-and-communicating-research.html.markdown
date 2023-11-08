@@ -4,7 +4,7 @@ title: Making your research and insights make an impact (course)
 date: 2023-11-02 18:40 UTC
 tags: "Design"
 layout: weeknote
-published: True
+published: False
 course: "No"
 pic: "/images/doing the analysis.jpeg"
 

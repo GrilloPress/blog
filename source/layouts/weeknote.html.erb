@@ -79,7 +79,9 @@
           <section class="blog-post">
             <%= yield %>
 
-            <% if current_page.data.course != 'No' %>
+            <% if current_page.data.course == 'No' %>
+            <!-- Do not display
+            -->
             <div class="ticket-box">
               <div class="ticket-box__inner">
                 <h2>Want to develop your storytelling and influencing skills as a researcher or designer?</h2>
