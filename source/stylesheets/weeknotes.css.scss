@@ -247,3 +247,58 @@ $brand-bg: #ffefc1;
   padding: 0;
   margin-bottom: 0.33rem !important;
 }
+
+.table-container {
+
+  margin-bottom: 1rem;
+
+  table {
+    background-color: $white;
+  }
+
+  caption {
+
+    font-size: 1.1rem;
+    background-color: $brand;
+    color: $white;
+    padding-left: 4px;
+
+    @media screen and (min-width: $desktop) {
+
+      font-size: 1.3rem;
+    }
+
+  }
+
+  tr {
+
+    vertical-align: top;
+    border: 1px solid;
+
+  }
+
+  td {
+
+    font-size: .9rem;
+    padding: 4px 4px 12px 4px;
+    border-right: 1px solid;
+    @media screen and (min-width: $desktop) {
+
+      font-size: 1.1rem;
+    }
+
+  }
+
+  th {
+
+    font-size: 1rem;
+    border-right: 1px solid;
+    padding-left: 4px;
+
+    @media screen and (min-width: $desktop) {
+
+      font-size: 1.1rem;
+    }
+  }
+
+}
