@@ -54,13 +54,11 @@ Thinking about how users start your service, or buy your product, you’ll find 
 
 Successfully selling things is about making it as easy as possible for those actively looking. Or to stand out as the best option for those people. And then trying to shift the inactive people into some activity. 
 
-For those with inactive interest, showing  the possibility of your product to improve things. To answer their need.
+For those with inactive interest, it's about showing the possibility of your product to improve things. To answer their need. That it is possible to do THAT thing. Or solve THAT issue.
 
-For those with inactive disinterest, to get them to pay attention and answer a question. Are you sure this isn’t for you? Don’t you need this?
+For those with inactive disinterest, it's about getting them to pay attention and answer a question. Are you sure this isn’t for you? Don’t you need this?
 
 For proactive disinterest. That can sound like a terrible place. But you’ve got people’s notice. Maybe your service isn’t for them. But it’s a chance to do something. It’s harder to shift their perceptions because they come with some. But understanding those people means you can tailor your service to respond to what they currently think your service lacks.
-
-
 
 <figure class="noir right fig-right" style="border: 1px solid black;">
     <img src="/images/all the people all the places.jpeg" alt="Artwork. Many people in blue. Searching looking for things. Looking for all the people and places amongst mountains of sticky notes - By Andrew Duckworth"/>
@@ -81,14 +79,20 @@ People who are actively looking or considering things also have different modes 
 
 If you’re mapping out how your service or product works. Make sure to visualise the routes to using your service from these states. How are you helping shift people to meet their needs using your service? What are your tactics?
 
-Using a 2by2 grid can be useful to write as a team what you’re doing. Making it easier to talk about it also can show you where you might be lacking. It can be easy to over optimise for people to buy. But your problem might be that you’re not getting people there in the active interest section.
+Using a 2by2 grid can be useful. Use it to write in the tactics or solutions you have for shifting people. Do this as a team. 
 
 <img style="border: 1px solid black;" src="/images/interest activity 2by2 grid.jpg" alt="2 by 2 grid with one side having interest, the other activity with arrows between to highlight where the shifts to be made are"/>
+
+A format like this will make it easier to talk about but also show you where you might be lacking. It can be easy to over optimise for people to buy. But your problem might be that you’re not getting people interested first.
+
+You find this in government a lot. Where most of the work is making the service easy to use. With little work on how we get people to know about the thing in the first place.
 
 Ask yourself. Do we need to reach people or convert those we've reached?
 
 It's also worth noting that the time people spend in these phases isn't equal. The length of time someone will stomach actively looking but finding nothing is not long. And differs on the level of importance to them. People will rarely stay active for long. So you have to be quick there to get the sale or convert a disbeliever.
 
 People also get things wrong. And a potential user whose tried something and failed will very quickly think your service can't exist. Or is a load of rubbish.
+
+And you may have very different users or types of people either starting or referring people to your service.
 
 But whether you’re trying to sell something, offering a health or government service, make sure to understand the phases your potential users go through. And map out how well your service meets those phases. And the things you could change to shift people to meet their needs using your product or service.
