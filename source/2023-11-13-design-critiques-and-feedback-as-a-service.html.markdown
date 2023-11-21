@@ -62,7 +62,7 @@ The value for your designers or design community space is:
 
 In UKHSA we helped a team designing things for data from labs to improve. To see the value of interaction and content design. And we helped them align their product more closely with GOV.UK standards. We did this through 2 or 3 sessions where the product and delivery team talked us through their product and needs.
 
-<figure class="noir right fig-right" style="border: 1px solid black;">
+<figure class="noir right fig-right fig-right-gutter" style="border: 1px solid black;">
     <img src="/images/kandinsky-notes.jpg" alt="People walking around and sharing their ideas artwork by Andrew Duckworth"/>
     <figcaption>"But doing it as a conscious way of adding value really does help grow design within your organisation. Just by letting teams experience it."</figcaption>
 </figure>

@@ -60,7 +60,7 @@ For those with inactive disinterest, it's about getting them to pay attention an
 
 For proactive disinterest. That can sound like a terrible place. But you’ve got people’s notice. Maybe your service isn’t for them. But it’s a chance to do something. It’s harder to shift their perceptions because they come with some. But understanding those people means you can tailor your service to respond to what they currently think your service lacks.
 
-<figure class="noir right fig-right" style="border: 1px solid black;">
+<figure class="noir right fig-right fig-right-gutter" style="border: 1px solid black;">
     <img src="/images/all the people all the places.jpeg" alt="Artwork. Many people in blue. Searching looking for things. Looking for all the people and places amongst mountains of sticky notes - By Andrew Duckworth"/>
     <figcaption>"Ask yourself. Do we need to reach people or convert those we've reached?"</figcaption>
 </figure>
@@ -81,7 +81,9 @@ If you’re mapping out how your service or product works. Make sure to visualis
 
 Using a 2by2 grid can be useful. Use it to write in the tactics or solutions you have for shifting people. Do this as a team. 
 
-<img style="border: 1px solid black;" src="/images/interest activity 2by2 grid.jpg" alt="2 by 2 grid with one side having interest, the other activity with arrows between to highlight where the shifts to be made are"/>
+<div class="stretch-container">
+    <img style="border: 1px solid black;" src="/images/interest activity 2by2 grid.jpg" alt="2 by 2 grid with one side having interest, the other activity with arrows between to highlight where the shifts to be made are"/>
+</div>
 
 A format like this will make it easier to talk about but also show you where you might be lacking. It can be easy to over optimise for people to buy. But your problem might be that you’re not getting people interested first.
 
