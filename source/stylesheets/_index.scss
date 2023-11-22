@@ -2,6 +2,34 @@
 
 .index {
 
+  .featured-grid {
+
+    display: grid;
+    column-gap: .5rem;
+
+    @media screen and (max-width: $mobile) {
+      grid-template-columns: 100%;
+    }
+
+    @media screen and (min-width: $tablet) {
+      grid-template-columns: 1fr 1fr;
+    }
+
+    @media screen and (min-width: $desktop) {
+      grid-template-columns: 1fr 1fr 1fr 1fr;
+    }
+  }
+
+  .lead {
+    font-size: 22px;
+    max-width: 80%;
+    margin-bottom: 2rem;
+
+    @media screen and (max-width: $mobile) {
+      max-width: 99%;
+    }
+  }
+
   .featured--link a {
     padding: 1rem;
     margin-bottom: 1rem;
@@ -17,10 +45,33 @@
     border-top: 1px solid;
     border-bottom: 6px solid;
     background-color: inherit;
-    color: #040aae;
+    color: #19191c;
     display: block;
-    width: fit-content;
+    width: 100%;
     text-decoration: none;
+    font-weight: 700;
+    min-height: 3rem;
+
+    @media screen and (min-width: $tablet) {
+      min-height: 7rem;
+    }
+    
+    @media screen and (min-width: $desktop) {
+      min-height: 10rem;
+    }
+  }
+
+  .featured--link {
+
+    img {
+      width: 100%;
+      border: 1px solid;
+
+      @media screen and (max-width: $mobile) {
+        display: none;
+      }
+      
+    }
   }
 
   // background-image: url("/images/background_new.png");
@@ -37,7 +88,7 @@
   .navbar-container {
 
     grid-template-columns: 100%;
-    max-width: 650px;
+    max-width: 1000px;
 
   }
 

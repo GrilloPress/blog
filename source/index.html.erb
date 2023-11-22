@@ -1,0 +1,64 @@
+---
+pageable: true
+per_page: 100
+layout: index
+---
+<nav class="navbar">
+  <div class="navbar-container">
+    <div>
+      <%= link_to "Andrew Duckworth", "/" %>
+    </div>
+  </div>
+</nav>
+<main class="container" role="main">
+  <header>
+    <h1>Andrew Duckworth</h1>
+    <p class="lead">I'm a deep thinker about product and design. <a href="https://forms.gle/hq7zfKBwtjBajBqt9" target="_blank">Hire me to work on something</a> or <a href="http://eepurl.com/iCnbSY" target="_blank">sign up for my newsletter</a>.</p>
+    <section></section>
+    <div>
+      <div class="featured-grid">
+        <div class="featured--link">
+          <img class="" src="/images/wireframes - andrew duckworth.jpeg" alt="Roy Litchenstien inspired artwork of UX wireframes - By Andrew Duckworth"/>
+          <a href="/2017/12/10/hypothesis-driven-design.html">Why designers design forms</a>
+        </div>
+         <div class="featured--link">
+          <img src="/images/shaping clay.jpeg" alt="3D shapes of peach andpurple some stars - By Andrew Duckworth"/>
+          <a href="/2021/05/12/shaping-work-with-star.html">Shaping design work (with STAR)</a>
+        </div>
+         <div class="featured--link">
+          <img src="/images/cutting the rock.jpeg" alt="Green black and white. People smashing through hard rock - By Andrew Duckworth"/>
+          <a href="/2019/03/18/do-the-hard-work-to-make-it-inclusive.html">Do the hard work to make it inclusive</a>
+        </div>
+        <div class="featured--link">
+          <img src="/images/lots of people.jpeg" alt="Lots of small sticky notes and people in boxes artwork by Andrew Duckworth"/>
+          <a href="/2023/10/29/experience-threat-modelling.html">Experience threat modelling</a>
+        </div>
+      </div>
+    </div>
+    
+  </header>
+  <section class="articles">
+    <h2>Latest articles</h2>
+    <ul class="list-unstyled">
+      <% page_articles.each_with_index do |article, i| %>
+        <% if article.data.tags == 'Design' %>
+          <li>
+            <%= link_to article.title, article %>
+          </li>
+        <% end %>
+      <% end %>
+    </ul>
+  </section>
+  <section class="articles">
+    <h2>Discovery notes</h2>
+    <ul class="list-unstyled">
+      <% page_articles.each_with_index do |article, i| %>
+        <% if article.data.tags == 'Discovery' %>
+          <li>
+            <%= link_to article.title, article %>
+          </li>
+        <% end %>
+      <% end %>
+    </ul>
+  </section>
+</main>

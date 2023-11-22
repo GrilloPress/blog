@@ -25,6 +25,8 @@ There's less people to manage. Grow and check on.
 
 There's more lines of communication in big teams. And places to hide, disappear.
 
+You may to join parts of an organisation less willing to work with your team.
+
 And there's more people who may want to pull in different directions. From design components and patterns to whole ways of working.
 
 So, as you grow you’ve got new pains and problems to deal with. Job descriptions. Specialisms. Communications challenges. You have to shift people around to where the money is and maybe not to where the impact is.

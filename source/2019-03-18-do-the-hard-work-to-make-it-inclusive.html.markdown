@@ -4,6 +4,7 @@ date: 2019-03-18 20:30 UTC
 tags: "Design"
 layout: weeknote
 published: True
+pic: "/images/cutting the rock.jpeg"
 ---
 
 Back in August we had a challenge. We had a method of authentication that worked pretty well, but needed an NHS number.

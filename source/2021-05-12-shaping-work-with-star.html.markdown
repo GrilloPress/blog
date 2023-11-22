@@ -4,6 +4,7 @@ date: 2021-05-12 07:30 UTC
 tags: "Design"
 layout: weeknote
 published: True
+pic: "/images/shaping clay.jpeg"
 ---
 
 Shaping design work for others, rather than tackling it yourself is a hard balancing act. Shape the work too much and people are too constrained. Too little and people get lost. Or scope is so large it’s difficult to show progress and value.
