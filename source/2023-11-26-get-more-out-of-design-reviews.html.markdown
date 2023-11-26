@@ -1,10 +1,10 @@
 ---
 
 title: Get more out of design reviews
-date: 2023-11-21 15:28 UTC
+date: 2023-11-26 15:28 UTC
 tags: "Design"
 layout: weeknote
-published: False
+published: True
 pic: "/images/sticky board.jpeg"
 
 ---
@@ -40,19 +40,19 @@ What thing are they trying to make clearer? What issue needs solving? Is there d
 
 Sometimes the problem doesn’t feel very important. And it’s great to talk about. And if a designer can’t explain the problem they’re solving it’s a sign they need to think it through some more with whoever set the issue or opportunity.
 
-### What else they tried or explored?
+### What else have they tried or explored?
 
 Good design is iterative and goes through loops of change and creation. Sometimes in a review we can also suggest ideas people have discarded. Ask them what else they considered and why they didn’t go with them. It’s often a very revealing part of discussion.
 
 It’s also worth considering who they’ve worked with to explore a design. Have they talked to any engineers? If not, they might need to explore some other things if technical constraints exist.
 
-### Find out what they think is the weakness?
+### What do they think is the weakness?
 
 Instead of telling them what you think works and doesn’t. Get the designer to talk through where they think things are weak. I know personally when I have a worry about a thing being weak it often is. And talking it through can help me design something better. Or be at peace with that issue.
 
-### How and with who they’re going to do to prove their thoughts are right?
+### How and with who are they going to prove their thoughts are right?
 
-A good process works out if something works. How will they do that? Who will be included in that. Who isn’t involved? And will that cause issues. If they’re going to build it without testing it first. How will they mitigate any issues or rapidly change.
+A good process works out if something works. How will they do that? Who will be included in that. Who isn’t involved? And will that cause issues. If they’re going to build it without testing it first, how will they mitigate any issues or rapidly change?
 
 ### What could go wrong, and how people could recover?
 
@@ -70,4 +70,4 @@ Have they thought about how people on different devices and using assistive tech
 
 ### What happens next?
 
-I like to end a session finding out what they’re doing next with the feedback and the design. It’s a good chance to open up the choice of coming back with some changes or the feedback from going live. A good design process keeps evolving. When something is design and done it’s a bad sign and carries a lot of risks if things don’t work.
+I like to end a session finding out what they’re doing next with the feedback and the design. It’s a good chance to open up the choice of coming back with some changes or the feedback from going live. A good design process keeps evolving. When something is "design and done" it’s a bad sign and carries a lot of risks if things don’t work.

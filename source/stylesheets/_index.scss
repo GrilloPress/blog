@@ -2,6 +2,11 @@
 
 .index {
 
+  #mc_embed_signup {
+
+    margin-top: 0;
+  }
+
   .featured-grid {
 
     display: grid;
@@ -18,6 +23,60 @@
     @media screen and (min-width: $desktop) {
       grid-template-columns: 1fr 1fr 1fr 1fr;
     }
+  }
+
+  .featured-card {
+
+    background-color: white;
+    padding: .6rem;
+    border-radius: 5px;
+    border: 1px solid;
+    box-shadow: 2px 3px 1px black;
+    margin-bottom: 1rem;
+  }
+
+  .featured-card__link {
+
+    display: block;
+    text-decoration: none;
+    font-weight: 600;
+    color: $brand;
+    
+
+    &:hover {
+      color: #19191c;
+      background-color: inherit;
+      text-decoration: underline;
+
+      .featured-card__image {
+
+        opacity: 50%;
+      }
+    }
+
+  }
+
+  .featured-card__image {
+
+    border: 1px solid #19191c;
+
+    @media screen and (max-width: $mobile) {
+      display: none;
+    }
+
+  }
+
+  .featured-card__title {
+
+    font-size: 18px;
+    padding: 8px 0;
+    background-image: url(../images/arrow.svg);
+    background-position: right 1em center;
+    position: relative;
+    background-repeat: no-repeat;
+    background-size: 1.6rem;
+    padding-right: 3rem;
+
   }
 
   .lead {
