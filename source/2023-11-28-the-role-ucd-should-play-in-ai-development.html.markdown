@@ -34,7 +34,7 @@ And I am talking both about the design of the underlying models and platforms. A
 
 ## Designing the underlying model, tools and platforms
 
-Great models start with a clear vision and clarity over what you want it to do. Or make possible. UCD help prototype and create these things with product and data teams. Exploring quickly whether a vision is worth bothering with. And before spending too much time trying to make it real. Researchers also help teams know their users and customers. And what opportunities there are to meet unmet needs.
+Great models start with a clear vision and clarity over what you want it to do. Or make possible. UCD helps prototype and create these things with product and data teams. Exploring quickly whether a vision is worth bothering with. And before spending too much time trying to make it real. Researchers also help teams know their users and customers. And what opportunities there are to meet unmet needs.
 
 <figure class="noir right fig-right fig-right-gutter" style="border: 1px solid black;">
     <img src="/images/At the model.jpeg" alt="A green face staring. looking through the code - By Andrew Duckworth"/>

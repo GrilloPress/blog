@@ -9,18 +9,19 @@ pic: "/images/sticky board.jpeg"
 
 ---
 
+In []() I wrote about the role UCD should play in AI design and development process. But what is a high level process? And where and when do specific roles really shine?
 
-## The when, where and what part UCD roles play in an AI development process
+## Where in the AI design and development process UCD fits
 
 If we take a simplified process for developing an AI platform or product as 4 iterative steps we can layer in when and what types of UCD skills are most important.
 
 <div class="stretch-container">
     <figure class="noir" style="border: 1px solid black;">
-        <a href="/images/AI design and development process.jpeg" target="_blank">
-            <img src="/images/AI design and development process.jpeg" alt="A 4 stage process around a diamond. Stages are: 1. Create vision of AI / product / next release 2. Explore data and tech feasibility 3. Create a prototype model or product 4. Learn and reflect on how product and tech met needs - By Andrew Duckworth"/>
+        <a href="/images/AI design and development process_ii.jpg" target="_blank">
+            <img src="/images/AI design and development process_ii.jpg" alt="A 4 stage process around a diamond. Stages are: 1. Create vision of AI / product / next release 2. Explore data and tech feasibility 3. Create a prototype model or product 4. Learn and reflect on how product and tech met needs - By Andrew Duckworth"/>
         </a>
         <figcaption>
-            This high-level <a href="/images/AI design and development process.jpeg" target="_blank">AI design and development process</a> can help make it easier to speak about what your aims are and who to include and when
+            This high-level <a href="/images/AI design and development process_ii.jpg" target="_blank">AI design and development process</a> can help make it easier to speak about what your aims are and who to include and when
         </figcaption>
     </figure>
 </div>
@@ -34,11 +35,6 @@ The stages are:
 
 This loop can be lengthy. Or can be tight. A skilled team could do things in days or weeks. I've done this loop in a single workshop. Or you can take months. Whether you understand your business goals and user's needs is the important part and will tell you what pace to run.
 
-<figure class="noir right fig-right fig-right-gutter" style="border: 1px solid black;">
-    <img src="/images/zombie.jpeg" alt="A green face staring. looking through the code - By Andrew Duckworth"/>
-    <figcaption>"User researchers, service designers and UX/Interaction designers able to look wider than just the UI steps can make a real impact here."</figcaption>
-</figure>
-
 The loop is cyclical. But when you learn things aren't feasible you can skip prototying things and the reflection can quickly change a vision of what's possible. For example, a lot of organisations are finding data engineering challenges in (2.) mean they have to change their vision of how things work for now.
 
 The broad phases can be uneven too. You'll find many places spend a lot of time in (2.) without learning from making or with their users.
@@ -47,7 +43,15 @@ The model is not necessarily user centred. And I’d say a large majority of bui
 
 But this iterative process can excel in being user centred. You just need teams to stop thinking that big brains can think their way through everything.
 
-So, a model like this helps us understand where our teams spend their time. And what sort of roles are well suited to each part of process. Good user centred design can play a part on making this great. For example:
+So, a model like this helps us understand where our teams spend their time. And what sort of roles are well suited to each part of process. Good user centred design can play a part on making this great.
+
+
+
+
+
+
+
+
 
 ### Creating a vision (1) and feasibility (2) 
 
