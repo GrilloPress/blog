@@ -1,6 +1,6 @@
 ---
 
-title: Get beyond the "so what?"
+title: Get beyond the 'so what?'
 date: 2023-12-04 12:47 UTC
 tags: "Design"
 layout: weeknote

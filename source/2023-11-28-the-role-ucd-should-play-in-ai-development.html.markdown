@@ -37,7 +37,7 @@ And I am talking both about the design of the underlying models and platforms. A
 Great models start with a clear vision and clarity over what you want it to do. Or make possible. UCD helps prototype and create these things with product and data teams. Exploring quickly whether a vision is worth bothering with. And before spending too much time trying to make it real. Researchers also help teams know their users and customers. And what opportunities there are to meet unmet needs.
 
 <figure class="noir right fig-right fig-right-gutter" style="border: 1px solid black;">
-    <img src="/images/At the model.jpeg" alt="A green face staring. looking through the code - By Andrew Duckworth"/>
+    <img src="/images/At the model.jpeg" alt="A figure amongst colourful lines that looks a little like computer chipboards and websites - By Andrew Duckworth"/>
     <figcaption>"AI has made little to no impact to the sheer number of terrible products and journeys being churned out in the world"</figcaption>
 </figure>
 
@@ -59,7 +59,7 @@ The key then is to bring together people who understand users with those who und
 This will be more comfortable clothes for many researchers and designers. The building of products and services to meet user needs. As with more traditional apps and websites, the best ones meet user needs. And do so supporting business goals and sustainability. The products that don’t make things better. That don’t meet the raised expectations of users who now know what AI could do, will be left long behind.
 
 <figure class="noir left fig-left fig-left-gutter" style="border: 1px solid black;">
-    <img src="/images/zombie.jpeg" alt="A robot at a typewrter sweating a deadline with sticky notes everywhere - By Andrew Duckworth"/>
+    <img src="/images/zombie.jpeg" alt="A green face staring. looking through the code - By Andrew Duckworth"/>
     <figcaption>"Great models start with a clear vision and clarity over what you want it to do"</figcaption>
 </figure>
 
